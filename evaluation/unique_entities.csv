@@ -1,0 +1,230 @@
+entity_type,normalized_value,occurrences
+PERSON,rajesh kushal hegde,42
+PERSON,rohit kushal hegde,40
+PERSON,pushpa kushal hegde,29
+PERSON,cap price,18
+PERSON,kushal subbayya hegde,15
+PERSON,supa facility,8
+PERSON,rakhi girija shetty,7
+PERSON,kishan rastogi,6
+PERSON,rakhi girija,5
+PERSON,sarthak malvadkar,5
+PERSON,kishan rastogi/ abhijit diwan,4
+PERSON,rajesh hegde,4
+PERSON,rohit hegde,4
+PERSON,amod joshi,3
+PERSON,eric bacha,3
+PERSON,lokesh shah,3
+PERSON,pravin teli/,3
+PERSON,sandesh bhagwat,3
+PERSON,siddharth jadhav/ tushar gavankar,3
+PERSON,abhijit diwan,2
+PERSON,ajay shriram patil,2
+PERSON,dinesh hirachand munot,2
+PERSON,ganesh prasad,2
+PERSON,gopal house,2
+PERSON,karunakar hegde,2
+PERSON,katyayani balasubramanian,2
+PERSON,pushpa hegde,2
+PERSON,rajesh branch,2
+PERSON,s. n o.,2
+PERSON,shanti gopalkrishnan,2
+PERSON,shanti gopalkrishnan sebi registration number,2
+PERSON,supa ahilyanagar,2
+PERSON,varun badai,2
+PERSON,vijay hegde,2
+PERSON,ajay menon,1
+PERSON,anand soni website,1
+PERSON,asba account,1
+PERSON,ashish mathew pulloor,1
+PERSON,birdewadi chakan,1
+PERSON,cherag gyara website,1
+PERSON,chitra raste website,1
+PERSON,continuous transposed conductors,1
+PERSON,deen dayal,1
+PERSON,dp/ depository participant,1
+PERSON,gat no.,1
+PERSON,gopal bo,1
+PERSON,hitesh ramani,1
+PERSON,indu jacob,1
+PERSON,jabeen ajay menon,1
+PERSON,jayaram n. shetty,1
+PERSON,karunakar bhandary,1
+PERSON,karunakar n. bhandary,1
+PERSON,katyayani balasubramanian ^&,1
+PERSON,lalit muljibhai sarvaiya,1
+PERSON,listing sebi bhavan,1
+PERSON,maithili rajesh,1
+PERSON,maithili rajesh hegde,1
+PERSON,manisha shukla website,1
+PERSON,narayana b. shetty,1
+PERSON,narayna b. shetty,1
+PERSON,pat cagr (fy23 - fy25,1
+PERSON,pat margin,1
+PERSON,prakash boricha,1
+PERSON,pushpakamal apartment,1
+PERSON,ram kumar tiwari,1
+PERSON,rohit branch,1
+PERSON,rupal k. sancheti,1
+PERSON,salil ajay bhargava,1
+PERSON,sangeeta ramprasad rai,1
+PERSON,schedule xiii,1
+PERSON,shanti gopalkrishnan sebi registration no.,1
+PERSON,sharmila joshi website,1
+PERSON,tanishq showroom,1
+PERSON,tara chambers,1
+PERSON,the lok sabha,1
+PERSON,tushar wakhele website,1
+PERSON,urja suraksha,1
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,12
+EMAIL_ADDRESS,ksh@icicisecurities.com,8
+EMAIL_ADDRESS,customercare@icicisecurities.com,6
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,6
+EMAIL_ADDRESS,cs.connect@kshinternational.com,3
+EMAIL_ADDRESS,customerservice.mb@nuvama.com,3
+EMAIL_ADDRESS,eric.bacha@hdfcbank.com,3
+EMAIL_ADDRESS,pravin.teli2@hdfcbank.com,3
+EMAIL_ADDRESS,sachin.gawade@hdfcbank.com,3
+EMAIL_ADDRESS,siddharth.jadhav@hdfcbank.com,3
+EMAIL_ADDRESS,tushar.gavankar@hdfcbank.com,3
+EMAIL_ADDRESS,ipocmg@icicibank.com,2
+EMAIL_ADDRESS,parag.pansare@kirtanepandit.com,2
+EMAIL_ADDRESS,anand.soni@bajajfinserv.in,1
+EMAIL_ADDRESS,ashishmp@federalbank.co.in,1
+EMAIL_ADDRESS,cherag.gyara@icicibank.com,1
+EMAIL_ADDRESS,hingnetare@gmail.com,1
+EMAIL_ADDRESS,hitesh.ramani@citi.com,1
+EMAIL_ADDRESS,ipo@trilegal.com,1
+EMAIL_ADDRESS,manisha.shukla@hdfcbank.com,1
+EMAIL_ADDRESS,prakash.boricha@nuvama.com,1
+EMAIL_ADDRESS,pro@eximbankindia.in,1
+EMAIL_ADDRESS,rm6.ifbpune@sbi.co.in,1
+EMAIL_ADDRESS,sarthak.malvadkar@kshinterantional.com,1
+EMAIL_ADDRESS,sharmila.joshi@indusind.com,1
+EMAIL_ADDRESS,sheetal.parab@nuvama.com,1
+PHONE_NUMBER,+91 81081 14949,9
+PHONE_NUMBER,+91 22 6807 7100,8
+PHONE_NUMBER,+ 91 20 45053237,3
+PHONE_NUMBER,+91 22 30752914,3
+PHONE_NUMBER,+91 22 30752928,3
+PHONE_NUMBER,+91 22 30752929,3
+PHONE_NUMBER,+91 22 40094400,3
+PHONE_NUMBER,+91 22 4009 4400,2
+PHONE_NUMBER,022-68052182,2
+PHONE_NUMBER,+ 91 (20) 6729 5100,1
+PHONE_NUMBER,+ 91 20 4505 3237,1
+PHONE_NUMBER,+ 91 20 6729 5100,1
+PHONE_NUMBER,+ 91 22 4009 4400,1
+PHONE_NUMBER,+ 91 8879770456,1
+PHONE_NUMBER,+ 91 91586 40360,1
+PHONE_NUMBER,+91 20 2561 8211,1
+PHONE_NUMBER,+91 20 2640 3100,1
+PHONE_NUMBER,+91 20 6606 4494,1
+PHONE_NUMBER,+91 20 6769 4648,1
+PHONE_NUMBER,+91 20 7157 6403,1
+PHONE_NUMBER,+91 22 4079 1000,1
+PHONE_NUMBER,+91-20-26234000,1
+ORGANIZATION,ksh international limited,13
+ORGANIZATION,kirtane & pandit llp,12
+ORGANIZATION,waterloo industrial park vi private limited,12
+ORGANIZATION,icici securities limited,11
+ORGANIZATION,national stock exchange of india limited,11
+ORGANIZATION,bse limited,10
+ORGANIZATION,hdfc bank limited,9
+ORGANIZATION,nuvama wealth management limited,9
+ORGANIZATION,care analytics and advisory private limited,6
+ORGANIZATION,formerly link intime india private limited,6
+ORGANIZATION,mufg intime india private limited,6
+ORGANIZATION,icici bank limited,5
+ORGANIZATION,bhandary metal extrusion private limited,3
+ORGANIZATION,care ratings limited,3
+ORGANIZATION,ksh international private limited,3
+ORGANIZATION,cloud services,2
+ORGANIZATION,company ksh international limited,2
+ORGANIZATION,investment private limited,2
+ORGANIZATION,ksh distriparks private limited,2
+ORGANIZATION,ksh infra park iv private limited,2
+ORGANIZATION,ksh integrated logistics private limited,2
+ORGANIZATION,waterloo industrial park ix a private limited,2
+ORGANIZATION,waterloo industrial park ix b private limited,2
+ORGANIZATION,waterloo industrial park ix private limited,2
+ORGANIZATION,"al-ahleia switchgear co., bharat bijlee limited",1
+ORGANIZATION,bajaj finance limited,1
+ORGANIZATION,central depository services,1
+ORGANIZATION,cindus corporation,1
+ORGANIZATION,"collectively, bse limited",1
+ORGANIZATION,corporation finance department division of issues,1
+ORGANIZATION,elantas beck india limited,1
+ORGANIZATION,electricals private limited,1
+ORGANIZATION,"electricals private limited, waterloo industrial park i private limited",1
+ORGANIZATION,georgia transformer corporation,1
+ORGANIZATION,goods and services tax&,1
+ORGANIZATION,hdfc limited,1
+ORGANIZATION,hindalco industries limited,1
+ORGANIZATION,india) limited,1
+ORGANIZATION,indusind bank limited,1
+ORGANIZATION,industrial solutions limited,1
+ORGANIZATION,kanj & co. llp,1
+ORGANIZATION,kanj and co llp,1
+ORGANIZATION,ksh infra park vi private limited,1
+ORGANIZATION,ksh project management services private limited,1
+ORGANIZATION,malabar india fund limited,1
+ORGANIZATION,national payments corporation,1
+ORGANIZATION,national securities depository limited,1
+ORGANIZATION,nidec industrial automation india private limited,1
+ORGANIZATION,offer escrow collection bank hdfc bank limited,1
+ORGANIZATION,precision wires india limited,1
+ORGANIZATION,"private limited, ksh infra park vi private limited, ksh distriparks private limited",1
+ORGANIZATION,"quality control, services",1
+ORGANIZATION,savli copper products private limited,1
+ORGANIZATION,solar energy corporation,1
+ORGANIZATION,switchgear limited,1
+ORGANIZATION,the federal bank limited,1
+ORGANIZATION,vedanta limited,1
+ORGANIZATION,virginia transformer corporation,1
+ORGANIZATION,waterloo industrial park i private limited,1
+ORGANIZATION,waterloo industrial park ii private limited,1
+ORGANIZATION,"waterloo industrial park ii private limited, waterloo industrial park iii private limited",1
+ORGANIZATION,waterloo industrial park iii private limited,1
+ORGANIZATION,waterloo industrial park iv private limited,1
+ORGANIZATION,"waterloo industrial park iv private limited, waterloo industrial park v private limited",1
+ORGANIZATION,waterloo industrial park v private limited,1
+ORGANIZATION,"waterloo industrial park vi private limited, waterloo industrial park viii private limited",1
+ORGANIZATION,waterloo industrial park viii private limited,1
+ORGANIZATION,waterloo motors private limited,1
+ORGANIZATION,"waterloo motors private limited, ksh project management services private limited",1
+ADDRESS,"marg, prabhadevi, mumbai 400025, maharashtra, india",4
+ADDRESS,"marg (east) mumbai – 400042, maharashtra, india",3
+ADDRESS,"101, embassy 247, 1st floor, l b s marg, vikhroli (west), mumbai 400083",2
+ADDRESS,"11/3, 11/4 and 11/5, village birdewadi, chakan taluka - khed, pune – 410 501, maharashtra, india",2
+ADDRESS,"complex, bandra east, mumbai 400051, maharashtra, india",2
+ADDRESS,"marg backbay reclamation churchgate, mumbai – 400020",2
+ADDRESS,"marg prabhadevi, mumbai – 400 025 maharashtra, india",2
+ADDRESS,"102, sai complex shaniwar peth, pune – 411 030 maharashtra, india",1
+ADDRESS,"11/3, 11/4 and 11/5 village birdewadi chakan taluka - khed pune – 410 501 maharashtra, india",1
+ADDRESS,"11/3, 11/4 and 11/5, village birdewadi, chakan taluka - khed, pune – 410 501, maharashtra, india and its corporate office at 201, tower 2, montreal business",1
+ADDRESS,"12 buena monte, ncl co-operative housing society, panchvati, pashan, pune – 411 008, maharashtra, india",1
+ADDRESS,"1st floor, l b s marg, vikhroli (west) mumbai 400083",1
+ADDRESS,"201, tower 2, montreal business centre, off pallod farms, baner pune – 411 045 maharashtra, india",1
+ADDRESS,"201, tower 2, montreal business centre, off pallod farms, baner, pune – 411 045, maharashtra, india",1
+ADDRESS,"223, supa parner industrial park, mauje palve khurd, taluka parner, dist – ahmednagar, maharashtra – 414 301",1
+ADDRESS,"25, taloja industrial area, village padghe, taluka panvel, raigad – 410 208, maharashtra, india",1
+ADDRESS,"259, jk road, minal residency, huzur, govindpura, bhopal – 462 023, madhya pradesh, india",1
+ADDRESS,"3 prabhat road, opposite pyc basketball court, deccan gymkhana, pune – 411 004 maharashtra, india",1
+ADDRESS,"3 prabhat road, opposite pyc basketball court, erandawane, deccan gymkhana, pune – 411 004 maharashtra, india",1
+ADDRESS,"3, shivaji nagar, deccan gymkhana, pune – 411 004, maharashtra, india",1
+ADDRESS,"5, chakan industrial area, phase ii, village khalumbre, taluka khed, pune – 410 501, maharashtra, india",1
+ADDRESS,"602, gopalkrupa apartment, bhonde colony, prabhat road, erandawane, pune – 411 004, maharashtra, india",1
+ADDRESS,"centre, off pallod farms, baner, pune – 411 045, maharashtra, india",1
+ADDRESS,"colony, pune – 411 016, maharashtra, india",1
+ADDRESS,"complex, bandra (e) mumbai – 400 051, maharashtra, india",1
+ADDRESS,"complex, bandra east mumbai 400 051",1
+ADDRESS,"floor near akurdi railway station akurdi, pune – 411 044 maharashtra, india",1
+ADDRESS,"marg, lower parel (west) mumbai – 400 013",1
+ADDRESS,"nagar, pune – 411 004 maharashtra, india",1
+ADDRESS,"of our company located at 11/3, 11/4 and 11/5, village birdewadi, chakan taluka-khed, pune – 410 501, maharashtra, india",1
+ADDRESS,"of our company located at 201, tower 2, montreal business centre, off pallod farms, baner, pune – 411 045, maharashtra, india",1
+ADDRESS,"road, pune – 411 001 maharashtra, india",1
+ADDRESS,"road, pune – 411 008, maharashtra, india",1
+ADDRESS,"taluka - khed, pune – 410 501, maharashtra, india",1
+ADDRESS,"taluka khed, district pune – 410 501",1

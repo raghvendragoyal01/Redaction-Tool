@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated output
+output/
+*.log
+
+# Evaluation generated files
+evaluation/generated/
+
+# Python packaging
+*.egg-info/
+dist/
+build/

@@ -1,0 +1,2005 @@
+entity_type,original_text,block_index,start,end,confidence,source
+DATE_TIME,"December 10, 2025",2,6,23,0.8500,presidio
+DATE_TIME,2013,3,45,49,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,5,0,25,0.8500,spacy
+DATE_TIME,5:00 p.m.,7,50,59,0.8500,presidio
+DATE_TIME,"December 10, 2025",9,6,23,0.8500,presidio
+DATE_TIME,2013,9,69,73,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,11,0,25,0.8500,spacy
+ORGANIZATION,Bhandary Metal Extrusion Private Limited,12,44,84,0.9700,context
+DATE_TIME,1956,12,129,133,0.8500,presidio
+DATE_TIME,"July 30, 1979",12,184,197,0.8500,presidio
+LOCATION,Bombay,12,252,258,0.8500,presidio
+ORGANIZATION,Bhandary Metal Extrusion Private Limited,12,316,356,0.9700,context
+ORGANIZATION,KSH International Private Limited,12,362,395,0.9700,context
+DATE_TIME,"June 1, 1996",12,428,440,0.8500,presidio
+DATE_TIME,"June 24, 1996",12,484,497,0.8500,presidio
+DATE_TIME,"July 4, 1996",12,580,592,0.8500,presidio
+DATE_TIME,1956,12,704,708,0.8500,presidio
+DATE_TIME,"January 13, 2011",12,782,798,0.8500,presidio
+DATE_TIME,"August 16, 2011",12,862,877,0.8500,presidio
+DATE_TIME,"October 13, 2011",12,1226,1242,0.8500,presidio
+DATE_TIME,"December 11, 2024",12,1397,1414,0.8500,presidio
+DATE_TIME,"December 19, 2024",12,1470,1487,0.8500,presidio
+ORGANIZATION,KSH International Limited,12,1529,1554,0.9700,context
+DATE_TIME,"January 20, 2025",12,1668,1684,0.8500,presidio
+ADDRESS,"11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",14,19,115,0.9900,context
+ADDRESS,"201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",15,18,117,0.9900,context
+PERSON,Sarthak Malvadkar,16,16,33,0.9500,context
+PHONE_NUMBER,+ 91 20 4505 3237,16,88,105,1.0000,regex
+EMAIL_ADDRESS,cs.connect@kshinternational.com,17,8,39,1.0000,regex
+URL,www.kshinternational.com,17,50,74,0.8500,presidio
+DATE_TIME,5:00 p.m.,19,50,59,0.8500,presidio
+ORGANIZATION,KSH International Limited,33,129,154,0.9700,context
+DATE_TIME,"July 30, 1979",33,182,195,0.8500,presidio
+DATE_TIME,1956,33,221,225,0.8500,presidio
+ADDRESS,"11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India and its Corporate Office at 201, Tower 2, Montreal Business",33,262,418,0.9900,context
+ADDRESS,"Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",33,419,486,0.9700,context
+NRP,SCRA,34,230,234,0.8500,presidio
+LOCATION,India,35,181,186,0.8500,presidio
+LOCATION,India,44,50,55,0.8500,presidio
+LOCATION,the Republic of India,44,64,85,0.8500,presidio
+LOCATION,US,44,339,341,0.8500,presidio
+LOCATION,USA,44,345,348,0.8500,presidio
+LOCATION,U.S.,44,356,360,0.8500,presidio
+LOCATION,the “United States,44,365,383,0.8500,presidio
+LOCATION,the United States of America,44,392,420,0.8500,presidio
+LOCATION,Sweden,44,577,583,0.8500,presidio
+LOCATION,Sweden,44,592,598,0.8500,presidio
+DATE_TIME,financial year,47,14,28,0.8500,presidio
+DATE_TIME,April 1,47,42,49,0.8500,presidio
+DATE_TIME,March 31,47,105,113,0.8500,presidio
+DATE_TIME,a particular financial year or,47,182,212,0.8500,presidio
+DATE_TIME,12-month,47,231,239,0.8500,presidio
+DATE_TIME,April 1,47,261,268,0.8500,presidio
+DATE_TIME,March 31,47,326,334,0.8500,presidio
+DATE_TIME,that particular calendar year,47,338,367,0.8500,presidio
+DATE_TIME,the year ended on March 31,47,533,559,0.8500,presidio
+DATE_TIME,"the three months period ended June 30, 2025",49,125,168,0.8500,presidio
+DATE_TIME,the years ended March 31,49,177,201,0.8500,presidio
+DATE_TIME,2025,49,203,207,0.8500,presidio
+DATE_TIME,"March 31, 2024",49,209,223,0.8500,presidio
+DATE_TIME,March 31,49,228,236,0.8500,presidio
+DATE_TIME,2023,49,238,242,0.8500,presidio
+DATE_TIME,three-months,49,584,596,0.8500,presidio
+DATE_TIME,"June 30, 2025",49,610,623,0.8500,presidio
+DATE_TIME,the years ended March 31,49,633,657,0.8500,presidio
+DATE_TIME,2025,49,659,663,0.8500,presidio
+DATE_TIME,"March 31, 2024",49,665,679,0.8500,presidio
+DATE_TIME,March 31,49,684,692,0.8500,presidio
+DATE_TIME,2023 Fiscals,49,694,706,0.8500,presidio
+DATE_TIME,2024,49,713,717,0.8500,presidio
+DATE_TIME,2023,49,722,726,0.8500,presidio
+DATE_TIME,2019,49,912,916,0.8500,presidio
+LOCATION,India,49,1095,1100,0.8500,presidio
+NRP,Indian,50,50,56,0.8500,presidio
+LOCATION,US,50,63,65,0.8500,presidio
+LOCATION,US,50,165,167,0.8500,presidio
+LOCATION,U.S.,50,523,527,0.8500,presidio
+NRP,Indian,50,601,607,0.8500,presidio
+LOCATION,United States,50,737,750,0.8500,presidio
+LOCATION,U.S.,50,794,798,0.8500,presidio
+NRP,Indian,50,1079,1085,0.8500,presidio
+DATE_TIME,2013,50,1140,1144,0.8500,presidio
+NRP,Indian,50,1218,1224,0.8500,presidio
+NRP,non-GAAP,53,359,367,0.8500,presidio
+LOCATION,US,55,381,383,0.8500,presidio
+NRP,Indian,55,497,503,0.8500,presidio
+LOCATION,US,55,518,520,0.8500,presidio
+LOCATION,US,55,694,696,0.8500,presidio
+NRP,Indian,55,1260,1266,0.8500,presidio
+LOCATION,US,55,1281,1283,0.8500,presidio
+NRP,Non-GAAP,55,1930,1938,0.8500,presidio
+LOCATION,India,57,198,203,0.8500,presidio
+DATE_TIME,"November 26, 2025",57,211,228,0.8500,presidio
+ORGANIZATION,CARE Analytics and Advisory Private Limited,57,258,301,0.8500,spacy
+DATE_TIME,"December 2, 2024",57,522,538,0.8500,presidio
+URL,https://kshinternational.com/investor-relations/industry-report/.,57,625,690,0.9500,presidio
+DATE_TIME,"November 26, 2025",57,758,775,0.8500,presidio
+NRP,Indian Rupees,63,41,54,0.8500,presidio
+LOCATION,the Republic of India,63,81,102,0.8500,presidio
+LOCATION,U.S,64,1,4,0.8500,presidio
+LOCATION,U.S.,64,10,14,0.8500,presidio
+LOCATION,USD,64,25,28,0.8500,presidio
+LOCATION,United States Dollars,64,37,58,0.8500,presidio
+LOCATION,the United States of America,64,85,113,0.8500,presidio
+NRP,Swedish,66,13,20,0.8500,presidio
+LOCATION,Sweden,66,53,59,0.8500,presidio
+NRP,Indian,69,61,67,0.8500,presidio
+LOCATION,₹,73,4,5,0.8500,presidio
+URL,www.fbil.org.in,74,44,59,0.5000,presidio
+URL,www.oanda.com/bvi-en/,74,65,86,0.5000,presidio
+DATE_TIME,the previous calendar day,76,70,95,0.8500,presidio
+LOCATION,India,79,786,791,0.8500,presidio
+LOCATION,India,79,906,911,0.8500,presidio
+LOCATION,India,79,1087,1092,0.8500,presidio
+LOCATION,the Supa Facility,88,69,86,0.8500,presidio
+LOCATION,India,92,88,93,0.8500,presidio
+DATE_TIME,84,94,765,767,0.8500,presidio
+LOCATION,India,96,65,70,0.8500,presidio
+DATE_TIME,Fiscal 2025,96,106,117,0.8500,presidio
+LOCATION,India,96,203,208,0.8500,presidio
+DATE_TIME,Fiscal 2025,96,240,251,0.8500,presidio
+LOCATION,India,99,64,69,0.8500,presidio
+LOCATION,India,99,378,383,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,102,23,42,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,102,44,63,0.8500,presidio
+PERSON,Rohit Kushal Hegde,102,65,83,0.8500,presidio
+PERSON,Rakhi Girija Shetty,102,85,104,0.8500,presidio
+ORGANIZATION,Waterloo Industrial Park VI Private Limited,102,248,291,0.9700,context
+DATE_TIME,"May 6, 2025",106,83,94,0.8500,presidio
+DATE_TIME,"May 6, 2025",106,198,209,0.8500,presidio
+DATE_TIME,three-month,127,63,74,0.8500,presidio
+DATE_TIME,"June 30, 2025",127,88,101,0.8500,presidio
+LOCATION,Fiscals 2025,127,106,118,0.8500,presidio
+DATE_TIME,2024,127,120,124,0.8500,presidio
+DATE_TIME,2023,127,129,133,0.8500,presidio
+DATE_TIME,"June 30, 2025",129,33,46,0.8500,presidio
+DATE_TIME,the year,134,171,179,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,143,54,73,0.8500,presidio
+PERSON,Rohit Kushal Hegde,143,75,93,0.8500,presidio
+PERSON,Rakhi Girija Shetty,143,98,117,0.8500,presidio
+PERSON,Sandesh Bhagwat,144,30,45,0.8500,presidio
+PERSON,Amod Joshi,144,52,62,0.8500,presidio
+PERSON,Sarthak Malvadkar,144,69,86,0.8500,presidio
+PERSON,Ganesh Prasad,144,119,132,0.8500,presidio
+DATE_TIME,three-month,151,73,84,0.8500,presidio
+DATE_TIME,"June 30, 2025",151,98,111,0.8500,presidio
+DATE_TIME,three-month,155,141,152,0.8500,presidio
+DATE_TIME,"June 30, 2025",155,166,179,0.8500,presidio
+LOCATION,Fiscals 2025,155,184,196,0.8500,presidio
+DATE_TIME,2024,155,198,202,0.8500,presidio
+DATE_TIME,2023,155,207,211,0.8500,presidio
+DATE_TIME,2013,160,163,167,0.8500,presidio
+DATE_TIME,a period of six months,160,326,348,0.8500,presidio
+DATE_TIME,the last one year,161,128,145,0.8500,presidio
+DATE_TIME,the last one year,162,133,150,0.8500,presidio
+DATE_TIME,"February 10, 2025",165,85,102,0.8500,presidio
+DATE_TIME,"February 11, 2025",165,107,124,0.8500,presidio
+DATE_TIME,February 11,165,283,294,0.8500,presidio
+DATE_TIME,2025,165,296,300,0.8500,presidio
+DATE_TIME,"February 21, 2025",165,399,416,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,166,20,40,0.8500,spacy
+DATE_TIME,"December 10, 2025",166,123,140,0.8500,presidio
+DATE_TIME,last one year,167,65,78,0.8500,presidio
+DATE_TIME,18 months,167,80,89,0.8500,presidio
+DATE_TIME,three years,167,94,105,0.8500,presidio
+DATE_TIME,the last one year,168,61,78,0.8500,presidio
+DATE_TIME,eighteen months and,168,80,99,0.8500,presidio
+DATE_TIME,three years,168,100,111,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,169,18,38,0.8500,spacy
+DATE_TIME,"December 10, 2025",169,121,138,0.8500,presidio
+DATE_TIME,the last 1 year,171,115,130,0.8500,presidio
+DATE_TIME,18 months,171,141,150,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,175,20,40,0.8500,spacy
+DATE_TIME,"December 10, 2025",175,123,140,0.8500,presidio
+DATE_TIME,the three years preceding the date of this,177,240,282,0.8500,presidio
+DATE_TIME,the three years,178,213,228,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,179,18,38,0.8500,spacy
+DATE_TIME,"December 10, 2025",179,121,138,0.8500,presidio
+DATE_TIME,the last one year,186,75,92,0.8500,presidio
+DATE_TIME,the one year preceding the date of this,187,243,282,0.8500,presidio
+DATE_TIME,the last one year,188,43,60,0.8500,presidio
+DATE_TIME,"February 10, 2025",189,51,68,0.8500,presidio
+DATE_TIME,"February 11, 2025",189,119,136,0.8500,presidio
+LOCATION,India,195,214,219,0.8500,presidio
+DATE_TIME,March 31 of each year,197,265,286,0.8500,presidio
+DATE_TIME,2024,197,378,382,0.8500,presidio
+DATE_TIME,2023,197,388,392,0.8500,presidio
+DATE_TIME,years ended March 31,197,408,428,0.8500,presidio
+DATE_TIME,2025,197,430,434,0.8500,presidio
+DATE_TIME,"March 31, 2024",197,436,450,0.8500,presidio
+DATE_TIME,March 31,197,455,463,0.8500,presidio
+DATE_TIME,2023,197,465,469,0.8500,presidio
+DATE_TIME,12-month,197,482,490,0.8500,presidio
+DATE_TIME,March 31,197,504,512,0.8500,presidio
+DATE_TIME,the relevant year,197,516,533,0.8500,presidio
+LOCATION,India,198,405,410,0.8500,presidio
+LOCATION,India,199,183,188,0.8500,presidio
+DATE_TIME,"November 26, 2025",199,196,213,0.8500,presidio
+ORGANIZATION,Care Analytics and Advisory Private Limited,199,254,297,0.8500,spacy
+DATE_TIME,"December 2, 2024",199,337,353,0.8500,presidio
+DATE_TIME,particular year,199,754,769,0.8500,presidio
+DATE_TIME,the relevant calendar year,199,801,827,0.8500,presidio
+DATE_TIME,three-month,201,198,209,0.8500,presidio
+DATE_TIME,"June 30, 2025",201,223,236,0.8500,presidio
+LOCATION,Fiscals 2025,201,242,254,0.8500,presidio
+DATE_TIME,2024,201,256,260,0.8500,presidio
+DATE_TIME,2023,201,265,269,0.8500,presidio
+ORGANIZATION,"Al-Ahleia Switchgear Co., Bharat Bijlee Limited",205,35,82,0.9700,context
+ORGANIZATION,Industrial Solutions Limited,205,97,125,0.9700,context
+ORGANIZATION,Switchgear Limited,205,150,168,0.9700,context
+ORGANIZATION,Georgia Transformer Corporation,205,170,201,0.9700,context
+ORGANIZATION,Nidec Industrial Automation India Private Limited,205,203,252,0.9700,context
+ORGANIZATION,India) Limited,205,281,295,0.8500,spacy
+ORGANIZATION,Virginia Transformer Corporation,205,301,333,0.9700,context
+DATE_TIME,the financial years ended March 31,206,41,75,0.8500,presidio
+DATE_TIME,2025,206,77,81,0.8500,presidio
+DATE_TIME,"March 31, 2024",206,83,97,0.8500,presidio
+DATE_TIME,March 31,206,103,111,0.8500,presidio
+DATE_TIME,2023,206,113,117,0.8500,presidio
+DATE_TIME,three-month,206,153,164,0.8500,presidio
+DATE_TIME,"June 30, 2025",206,178,191,0.8500,presidio
+DATE_TIME,the financial year ended March 31,206,605,638,0.8500,presidio
+DATE_TIME,2025,206,640,644,0.8500,presidio
+DATE_TIME,10 years,206,689,697,0.8500,presidio
+DATE_TIME,5 years,206,757,764,0.8500,presidio
+DATE_TIME,2 years,206,810,817,0.8500,presidio
+DATE_TIME,three-month,210,203,214,0.8500,presidio
+DATE_TIME,"June 30, 2025",210,228,241,0.8500,presidio
+LOCATION,Fiscals 2025,210,247,259,0.8500,presidio
+DATE_TIME,2024,210,261,265,0.8500,presidio
+DATE_TIME,2023,210,271,275,0.8500,presidio
+DATE_TIME,14,211,83,85,0.8500,presidio
+DATE_TIME,17,211,87,89,0.8500,presidio
+DATE_TIME,three-month,211,234,245,0.8500,presidio
+DATE_TIME,"June 30, 2025",211,259,272,0.8500,presidio
+LOCATION,Fiscals 2025,211,278,290,0.8500,presidio
+DATE_TIME,2024,211,292,296,0.8500,presidio
+DATE_TIME,2023,211,301,305,0.8500,presidio
+DATE_TIME,the period/ financial year,211,396,422,0.8500,presidio
+ORGANIZATION,Cindus Corporation,214,55,73,0.9700,context
+ORGANIZATION,Elantas Beck India Limited,214,75,101,0.9700,context
+ORGANIZATION,Hindalco Industries Limited,214,103,130,0.9700,context
+ORGANIZATION,Savli Copper Products Private Limited,214,152,189,0.9700,context
+ORGANIZATION,Vedanta Limited,214,217,232,0.9700,context
+DATE_TIME,three-month,215,975,986,0.8500,presidio
+DATE_TIME,"June 30, 2025",215,1000,1013,0.8500,presidio
+DATE_TIME,2024,215,1037,1041,0.8500,presidio
+DATE_TIME,2023,215,1046,1050,0.8500,presidio
+DATE_TIME,three-month,217,1420,1431,0.8500,presidio
+DATE_TIME,"June 30, 2025",217,1445,1458,0.8500,presidio
+LOCATION,Fiscals 2025,217,1464,1476,0.8500,presidio
+DATE_TIME,2024,217,1478,1482,0.8500,presidio
+DATE_TIME,2023,217,1487,1491,0.8500,presidio
+DATE_TIME,three-month,220,48,59,0.8500,presidio
+DATE_TIME,"June 30, 2025",220,73,86,0.8500,presidio
+LOCATION,Fiscals 2025,220,92,104,0.8500,presidio
+DATE_TIME,2024,220,106,110,0.8500,presidio
+DATE_TIME,2023,220,115,119,0.8500,presidio
+LOCATION,India,222,308,313,0.8500,presidio
+LOCATION,Gujarat,223,56,63,0.8500,presidio
+LOCATION,UAE,223,71,74,0.8500,presidio
+DATE_TIME,three-month,223,83,94,0.8500,presidio
+DATE_TIME,"June 30, 2025",223,108,121,0.8500,presidio
+LOCATION,Fiscals 2025,223,127,139,0.8500,presidio
+DATE_TIME,2024,223,141,145,0.8500,presidio
+DATE_TIME,three-month,224,304,315,0.8500,presidio
+DATE_TIME,"June 30, 2025",224,329,342,0.8500,presidio
+LOCATION,Fiscals 2025,224,346,358,0.8500,presidio
+DATE_TIME,2024,224,360,364,0.8500,presidio
+DATE_TIME,2023,224,369,373,0.8500,presidio
+DATE_TIME,three-month,225,125,136,0.8500,presidio
+DATE_TIME,"June 30, 2025",225,150,163,0.8500,presidio
+LOCATION,Fiscals 2025,225,168,180,0.8500,presidio
+DATE_TIME,2024,225,182,186,0.8500,presidio
+DATE_TIME,2023,225,191,195,0.8500,presidio
+DATE_TIME,three-month,229,518,529,0.8500,presidio
+DATE_TIME,"June 30, 2025",229,543,556,0.8500,presidio
+DATE_TIME,2024,229,580,584,0.8500,presidio
+DATE_TIME,2023,229,589,593,0.8500,presidio
+DATE_TIME,three-month,230,77,88,0.8500,presidio
+DATE_TIME,"June 30, 2025",230,102,115,0.8500,presidio
+LOCATION,Fiscals 2025,230,121,133,0.8500,presidio
+DATE_TIME,2024,230,135,139,0.8500,presidio
+DATE_TIME,2023,230,144,148,0.8500,presidio
+DATE_TIME,three-month,232,100,111,0.8500,presidio
+DATE_TIME,"June 30, 2025",232,125,138,0.8500,presidio
+DATE_TIME,2024,232,162,166,0.8500,presidio
+DATE_TIME,2023,232,172,176,0.8500,presidio
+LOCATION,Supa Facility,234,235,248,0.8500,presidio
+PERSON,Supa Facility,234,408,421,0.8500,presidio
+LOCATION,Chakan,234,557,563,0.8500,presidio
+LOCATION,Pune,234,565,569,0.8500,presidio
+LOCATION,Maharashtra,234,573,584,0.8500,presidio
+LOCATION,India,238,278,283,0.8500,presidio
+DATE_TIME,three-month,238,2028,2039,0.8500,presidio
+DATE_TIME,"June 30, 2025",238,2053,2066,0.8500,presidio
+LOCATION,Fiscals 2025,238,2071,2083,0.8500,presidio
+DATE_TIME,2024,238,2085,2089,0.8500,presidio
+DATE_TIME,2023,238,2095,2099,0.8500,presidio
+DATE_TIME,three-month,239,1922,1933,0.8500,presidio
+DATE_TIME,"June 30, 2025",239,1947,1960,0.8500,presidio
+LOCATION,Fiscals 2025,239,1964,1976,0.8500,presidio
+DATE_TIME,2024,239,1978,1982,0.8500,presidio
+DATE_TIME,2023,239,1987,1991,0.8500,presidio
+DATE_TIME,"March 31, 2025",241,134,148,0.8500,presidio
+PERSON,Supa Facility,241,204,217,0.8500,presidio
+DATE_TIME,September 2025,241,251,265,0.8500,presidio
+LOCATION,MT,241,336,338,0.8500,presidio
+LOCATION,MT,241,349,351,0.8500,presidio
+LOCATION,Ahilyanagar,241,387,398,0.8500,presidio
+LOCATION,our Supa Facility,241,755,772,0.8500,presidio
+LOCATION,our Supa Facility,242,127,144,0.8500,presidio
+LOCATION,our Supa Facility,242,328,345,0.8500,presidio
+LOCATION,our Supa Facility,242,370,387,0.8500,presidio
+LOCATION,Chakan,242,456,462,0.8500,presidio
+LOCATION,Pune,242,464,468,0.8500,presidio
+LOCATION,Maharashtra,242,472,483,0.8500,presidio
+LOCATION,India,244,265,270,0.8500,presidio
+LOCATION,India,244,603,608,0.8500,presidio
+DATE_TIME,three-month,245,151,162,0.8500,presidio
+DATE_TIME,"June 30, 2025",245,176,189,0.8500,presidio
+LOCATION,Fiscals 2025,245,194,206,0.8500,presidio
+DATE_TIME,2024,245,208,212,0.8500,presidio
+DATE_TIME,2023,245,217,221,0.8500,presidio
+DATE_TIME,three-month,247,104,115,0.8500,presidio
+DATE_TIME,"June 30, 2025",247,129,142,0.8500,presidio
+LOCATION,Fiscals 2025,247,147,159,0.8500,presidio
+DATE_TIME,2024,247,161,165,0.8500,presidio
+DATE_TIME,2023,247,170,174,0.8500,presidio
+ORGANIZATION,"Quality Control, Services",249,104,129,0.9700,context
+DATE_TIME,three-month,249,867,878,0.8500,presidio
+DATE_TIME,"June 30, 2025",249,892,905,0.8500,presidio
+LOCATION,Fiscals 2025,249,910,922,0.8500,presidio
+DATE_TIME,2024,249,924,928,0.8500,presidio
+DATE_TIME,2023,249,933,937,0.8500,presidio
+LOCATION,India,250,73,78,0.8500,presidio
+DATE_TIME,three-month,250,157,168,0.8500,presidio
+DATE_TIME,"June 30, 2025",250,182,195,0.8500,presidio
+LOCATION,Fiscals 2025,250,201,213,0.8500,presidio
+DATE_TIME,2024,250,215,219,0.8500,presidio
+DATE_TIME,2023,250,224,228,0.8500,presidio
+LOCATION,India,251,71,76,0.8500,presidio
+DATE_TIME,"June 30, 2025",251,84,97,0.8500,presidio
+LOCATION,India,251,166,171,0.8500,presidio
+DATE_TIME,three-month,253,883,894,0.8500,presidio
+DATE_TIME,"June 30, 2025",253,908,921,0.8500,presidio
+DATE_TIME,2024,253,944,948,0.8500,presidio
+DATE_TIME,2023,253,953,957,0.8500,presidio
+LOCATION,the United States,254,9,26,0.8500,presidio
+LOCATION,India,254,85,90,0.8500,presidio
+NRP,Indian,254,136,142,0.8500,presidio
+DATE_TIME,8544,254,167,171,0.8500,presidio
+LOCATION,the United States,254,237,254,0.8500,presidio
+LOCATION,the United States,254,388,405,0.8500,presidio
+DATE_TIME,1962,254,499,503,0.8500,presidio
+DATE_TIME,the periods/ years,256,104,122,0.8500,presidio
+DATE_TIME,the Fiscal 2024,257,59,74,0.8500,presidio
+LOCATION,India,259,174,179,0.8500,presidio
+DATE_TIME,three-month,259,1134,1145,0.8500,presidio
+DATE_TIME,"June 30, 2025",259,1159,1172,0.8500,presidio
+LOCATION,Fiscals 2025,259,1176,1188,0.8500,presidio
+DATE_TIME,2024,259,1190,1194,0.8500,presidio
+DATE_TIME,2023,259,1200,1204,0.8500,presidio
+DATE_TIME,1975,261,157,161,0.8500,presidio
+ORGANIZATION,KSH International Private Limited,261,280,313,0.9700,context
+LOCATION,our Supa Facility,265,197,214,0.8500,presidio
+LOCATION,our Supa Facility,265,454,471,0.8500,presidio
+LOCATION,our Supa Facility,265,496,513,0.8500,presidio
+LOCATION,Chakan,265,582,588,0.8500,presidio
+LOCATION,Pune,265,590,594,0.8500,presidio
+LOCATION,Maharashtra,265,598,609,0.8500,presidio
+DATE_TIME,Annual,269,0,6,0.8500,presidio
+DATE_TIME,the Fiscal 2003,269,73,88,0.8500,presidio
+DATE_TIME,1983,269,129,133,0.8500,presidio
+DATE_TIME,"March 31, 1988",269,139,153,0.8500,presidio
+DATE_TIME,"March 31, 1985",270,56,70,0.8500,presidio
+DATE_TIME,"March 31, 2005",270,106,120,0.8500,presidio
+DATE_TIME,2014,270,159,163,0.8500,presidio
+LOCATION,RoC,271,53,56,0.8500,presidio
+DATE_TIME,"July 30, 1979",271,105,118,0.8500,presidio
+LOCATION,RoC,272,50,53,0.8500,presidio
+ORGANIZATION,Bhandary Metal Extrusion Private Limited,272,103,143,0.9700,context
+ORGANIZATION,KSH International Private Limited,272,149,182,0.9700,context
+DATE_TIME,"July 4, 1996",272,190,202,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,273,87,106,0.8500,presidio
+DATE_TIME,"September 26, 1996",273,113,131,0.8500,presidio
+LOCATION,RoC,274,33,36,0.8500,presidio
+PERSON,Rohit Kushal Hegde,274,99,117,0.8500,presidio
+DATE_TIME,"November 1, 2000",274,124,140,0.8500,presidio
+LOCATION,RoC,275,37,40,0.8500,presidio
+PERSON,Rohit Kushal Hegde,275,95,113,0.8500,presidio
+DATE_TIME,"September 21, 2000",275,120,138,0.8500,presidio
+DATE_TIME,85,278,252,254,0.8500,presidio
+ORGANIZATION,Kanj and Co LLP,279,169,184,0.8500,spacy
+DATE_TIME,"May 21, 2025",279,340,352,0.8500,presidio
+DATE_TIME,"May 21, 2025",279,475,487,0.8500,presidio
+PERSON,Karunakar N. Bhandary,280,73,94,0.8500,presidio
+PERSON,Narayna B. Shetty,280,176,193,0.8500,presidio
+PERSON,Jayaram N. Shetty,280,198,215,0.8500,presidio
+LOCATION,MoA,280,275,278,0.8500,presidio
+DATE_TIME,"June 29, 1979",280,285,298,0.8500,presidio
+DATE_TIME,"August 25, 1979",280,376,391,0.8500,presidio
+LOCATION,RoC,281,48,51,0.8500,presidio
+DATE_TIME,three-month,281,77,88,0.8500,presidio
+DATE_TIME,"June 30, 2025",281,102,115,0.8500,presidio
+LOCATION,Fiscals 2025,281,121,133,0.8500,presidio
+DATE_TIME,2024,281,135,139,0.8500,presidio
+DATE_TIME,2023,281,144,148,0.8500,presidio
+ORGANIZATION,Care Analytics and Advisory Private Limited,284,154,197,0.8500,spacy
+URL,https://kshinternational.com/investor-relations/industry-report/.,284,376,441,0.9500,presidio
+DATE_TIME,"December 2, 2024",285,99,115,0.8500,presidio
+DATE_TIME,three-month,294,51,62,0.8500,presidio
+DATE_TIME,"June 30, 2025",294,76,89,0.8500,presidio
+DATE_TIME,2024,294,113,117,0.8500,presidio
+DATE_TIME,days,295,50,54,0.8500,presidio
+DATE_TIME,days,295,77,81,0.8500,presidio
+DATE_TIME,days,295,102,106,0.8500,presidio
+DATE_TIME,days,295,118,122,0.8500,presidio
+DATE_TIME,days,295,250,254,0.8500,presidio
+DATE_TIME,365 or 91 days,296,61,75,0.8500,presidio
+DATE_TIME,days,296,91,95,0.8500,presidio
+DATE_TIME,365 or 91 days,296,157,171,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,302,54,73,0.8500,presidio
+PERSON,Rohit Kushal Hegde,302,75,93,0.8500,presidio
+PERSON,Rakhi Girija Shetty,302,98,117,0.8500,presidio
+PERSON,Sandesh Bhagwat,303,30,45,0.8500,presidio
+PERSON,Amod Joshi,303,52,62,0.8500,presidio
+PERSON,Sarthak Malvadkar,303,69,86,0.8500,presidio
+PERSON,Ganesh Prasad,303,119,132,0.8500,presidio
+DATE_TIME,three-month,309,144,155,0.8500,presidio
+DATE_TIME,"June 30, 2025",309,169,182,0.8500,presidio
+DATE_TIME,2024,309,206,210,0.8500,presidio
+DATE_TIME,2023,309,215,219,0.8500,presidio
+DATE_TIME,three-month,312,47,58,0.8500,presidio
+DATE_TIME,"June 30, 2025",312,72,85,0.8500,presidio
+DATE_TIME,the year 2022-2023,314,38,56,0.8500,presidio
+DATE_TIME,2023-2024,314,58,67,0.8500,presidio
+DATE_TIME,2024-2025 & first quarter of the year,314,72,109,0.8500,presidio
+DATE_TIME,2025-26,314,110,117,0.8500,presidio
+NRP,Indian,319,127,133,0.8500,presidio
+DATE_TIME,annual,319,266,272,0.8500,presidio
+NRP,Specialize,324,0,10,0.8500,presidio
+DATE_TIME,26 days,325,11,18,0.8500,presidio
+DATE_TIME,312 working days,325,42,58,0.8500,presidio
+DATE_TIME,a year with per day three,325,62,87,0.8500,presidio
+DATE_TIME,5.6 hours,325,129,138,0.8500,presidio
+DATE_TIME,26 days,326,10,17,0.8500,presidio
+DATE_TIME,312 working days,326,41,57,0.8500,presidio
+DATE_TIME,a year with per day three,326,61,86,0.8500,presidio
+DATE_TIME,5.2 hours,326,128,137,0.8500,presidio
+DATE_TIME,a year,328,36,42,0.8500,presidio
+DATE_TIME,8 hours,328,125,132,0.8500,presidio
+DATE_TIME,monthly,330,87,94,0.8500,presidio
+ADDRESS,"223, Supa Parner Industrial Park, Mauje Palve Khurd, Taluka Parner, Dist – Ahmednagar, Maharashtra – 414 301",332,61,169,0.9700,context
+LOCATION,MT,332,280,282,0.8500,presidio
+LOCATION,MT,332,367,369,0.8500,presidio
+DATE_TIME,"September 19, 2025",332,419,437,0.8500,presidio
+DATE_TIME,September 2025,332,568,582,0.8500,presidio
+DATE_TIME,Fiscal 2020,334,152,163,0.8500,presidio
+LOCATION,Maharashtra,335,44,55,0.8500,presidio
+LOCATION,India,335,57,62,0.8500,presidio
+LOCATION,Taloja,336,130,136,0.8500,presidio
+LOCATION,Chakan,336,171,177,0.8500,presidio
+LOCATION,Pune,336,179,183,0.8500,presidio
+LOCATION,Supa,336,321,325,0.8500,presidio
+LOCATION,Maharashtra,336,364,375,0.8500,presidio
+PERSON,Supa Facility,336,595,608,0.8500,presidio
+PERSON,Supa Ahilyanagar,336,711,727,0.8500,presidio
+DATE_TIME,three-month,336,1243,1254,0.8500,presidio
+DATE_TIME,"June 30, 2025",336,1268,1281,0.8500,presidio
+DATE_TIME,2024,336,1304,1308,0.8500,presidio
+DATE_TIME,2023,336,1313,1317,0.8500,presidio
+DATE_TIME,October 31,338,6,16,0.8500,presidio
+DATE_TIME,2025,338,18,22,0.8500,presidio
+DATE_TIME,three-month,342,95,106,0.8500,presidio
+DATE_TIME,"June 30, 2025",342,120,133,0.8500,presidio
+LOCATION,Fiscals 2025,342,138,150,0.8500,presidio
+DATE_TIME,2024,342,152,156,0.8500,presidio
+DATE_TIME,2023,342,161,165,0.8500,presidio
+DATE_TIME,1952,347,156,160,0.8500,presidio
+DATE_TIME,1948,347,243,247,0.8500,presidio
+DATE_TIME,three-month,357,781,792,0.8500,presidio
+DATE_TIME,"June 30, 2025",357,806,819,0.8500,presidio
+LOCATION,Fiscals 2025,357,825,837,0.8500,presidio
+DATE_TIME,2024,357,839,843,0.8500,presidio
+DATE_TIME,2023,357,848,852,0.8500,presidio
+DATE_TIME,June 2021,357,929,938,0.8500,presidio
+LOCATION,our Supa Facility,361,63,80,0.8500,presidio
+DATE_TIME,three-month,362,697,708,0.8500,presidio
+DATE_TIME,"June 30, 2025",362,722,735,0.8500,presidio
+LOCATION,Fiscals 2025,362,740,752,0.8500,presidio
+DATE_TIME,2024,362,754,758,0.8500,presidio
+DATE_TIME,2023,362,764,768,0.8500,presidio
+DATE_TIME,three-month,364,277,288,0.8500,presidio
+DATE_TIME,"June 30, 2025",364,302,315,0.8500,presidio
+LOCATION,Fiscals 2025,364,321,333,0.8500,presidio
+DATE_TIME,2024,364,335,339,0.8500,presidio
+DATE_TIME,2023,364,344,348,0.8500,presidio
+DATE_TIME,three-month,366,497,508,0.8500,presidio
+DATE_TIME,"June 30, 2025",366,522,535,0.8500,presidio
+LOCATION,Fiscals 2025,366,539,551,0.8500,presidio
+DATE_TIME,2024,366,553,557,0.8500,presidio
+DATE_TIME,2023,366,562,566,0.8500,presidio
+DATE_TIME,"June 30, 2025",368,6,19,0.8500,presidio
+DATE_TIME,three-month,368,134,145,0.8500,presidio
+DATE_TIME,"June 30, 2025",368,159,172,0.8500,presidio
+LOCATION,Fiscals 2025,368,178,190,0.8500,presidio
+DATE_TIME,2024,368,192,196,0.8500,presidio
+DATE_TIME,2023,368,202,206,0.8500,presidio
+DATE_TIME,years,369,181,186,0.8500,presidio
+ORGANIZATION,Care Ratings Limited,371,119,139,0.9700,context
+DATE_TIME,three-month,371,148,159,0.8500,presidio
+DATE_TIME,"June 30, 2025",371,173,186,0.8500,presidio
+LOCATION,Fiscals 2025,371,188,200,0.8500,presidio
+DATE_TIME,2024,371,202,206,0.8500,presidio
+DATE_TIME,"December 10, 2024",373,104,121,0.8500,presidio
+DATE_TIME,"the last three-month period ended June 30, 2025",373,193,240,0.8500,presidio
+LOCATION,Fiscals 2025,373,244,256,0.8500,presidio
+DATE_TIME,2024,373,258,262,0.8500,presidio
+DATE_TIME,2023,373,267,271,0.8500,presidio
+LOCATION,USD,375,340,343,0.8500,presidio
+LOCATION,SEK,375,354,357,0.8500,presidio
+DATE_TIME,three-month,376,570,581,0.8500,presidio
+DATE_TIME,"June 30, 2025",376,595,608,0.8500,presidio
+LOCATION,Fiscals 2025,376,613,625,0.8500,presidio
+DATE_TIME,2024,376,627,631,0.8500,presidio
+DATE_TIME,2023,376,636,640,0.8500,presidio
+LOCATION,India,376,878,883,0.8500,presidio
+DATE_TIME,three-month,376,962,973,0.8500,presidio
+DATE_TIME,"June 30, 2025",376,987,1000,0.8500,presidio
+LOCATION,Fiscals 2025,376,1006,1018,0.8500,presidio
+DATE_TIME,2024,376,1020,1024,0.8500,presidio
+DATE_TIME,2023,376,1029,1033,0.8500,presidio
+DATE_TIME,three-month,379,582,593,0.8500,presidio
+DATE_TIME,"June 30, 2025",379,607,620,0.8500,presidio
+LOCATION,Fiscals 2025,379,625,637,0.8500,presidio
+DATE_TIME,2024,379,639,643,0.8500,presidio
+DATE_TIME,2023,379,648,652,0.8500,presidio
+LOCATION,Chakan,381,150,156,0.8500,presidio
+LOCATION,Pune,381,158,162,0.8500,presidio
+DATE_TIME,a period of,381,205,216,0.8500,presidio
+DATE_TIME,three years,381,217,228,0.8500,presidio
+DATE_TIME,"August 2, 2023",381,246,260,0.8500,presidio
+DATE_TIME,three-month,396,1786,1797,0.8500,presidio
+DATE_TIME,"June 30, 2025",396,1811,1824,0.8500,presidio
+LOCATION,Fiscals 2025,396,1828,1840,0.8500,presidio
+DATE_TIME,2024,396,1842,1846,0.8500,presidio
+DATE_TIME,2023,396,1851,1855,0.8500,presidio
+DATE_TIME,October 31,398,6,16,0.8500,presidio
+DATE_TIME,2025,398,18,22,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,400,62,81,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,400,83,102,0.8500,presidio
+PERSON,Rohit Kushal Hegde,400,104,122,0.8500,presidio
+PERSON,Rakhi Girija Shetty,400,127,146,0.8500,presidio
+DATE_TIME,three-month,402,627,638,0.8500,presidio
+DATE_TIME,"June 30, 2025",402,652,665,0.8500,presidio
+DATE_TIME,2024,402,689,693,0.8500,presidio
+DATE_TIME,2023,402,698,702,0.8500,presidio
+DATE_TIME,several years,410,237,250,0.8500,presidio
+PERSON,Dinesh Hirachand Munot,410,359,381,0.8500,presidio
+PERSON,Ajay Shriram Patil,410,386,404,0.8500,presidio
+LOCATION,India,410,524,529,0.8500,presidio
+LOCATION,India,410,541,546,0.8500,presidio
+DATE_TIME,three-month,414,11,22,0.8500,presidio
+DATE_TIME,"June 30, 2025",414,36,49,0.8500,presidio
+LOCATION,India,414,156,161,0.8500,presidio
+PERSON,Supa Facility,415,82,95,0.8500,presidio
+DATE_TIME,2019,415,208,212,0.8500,presidio
+DATE_TIME,March 20,416,659,667,0.8500,presidio
+DATE_TIME,2025,416,669,673,0.8500,presidio
+DATE_TIME,"February 5, 2025",417,17,33,0.8500,presidio
+ORGANIZATION,Waterloo Motors Private Limited,420,70,101,0.9700,context
+ORGANIZATION,KSH Project Management Services Private Limited,420,108,155,0.9700,context
+ORGANIZATION,KSH Infra Park VI Private Limited,420,202,235,0.9700,context
+ORGANIZATION,KSH Distriparks Private Limited,420,241,272,0.9700,context
+ORGANIZATION,KSH Integrated Logistics Private Limited,420,279,319,0.9700,context
+ORGANIZATION,Electricals Private Limited,420,345,372,0.9700,context
+ORGANIZATION,Waterloo Industrial Park I Private Limited,420,381,423,0.9700,context
+ORGANIZATION,Waterloo Industrial Park II Private Limited,420,430,473,0.9700,context
+ORGANIZATION,Waterloo Industrial Park III Private Limited,420,479,523,0.9700,context
+ORGANIZATION,Waterloo Industrial Park IV Private Limited,420,530,573,0.9700,context
+ORGANIZATION,Waterloo Industrial Park V Private Limited,420,581,623,0.9700,context
+ORGANIZATION,Waterloo Industrial Park VI Private Limited,420,632,675,0.9700,context
+ORGANIZATION,Waterloo Industrial Park VIII Private Limited,420,683,728,0.9700,context
+ORGANIZATION,Waterloo Industrial Park IX Private Limited,420,735,778,0.9700,context
+ORGANIZATION,Waterloo Industrial Park IX B Private Limited,420,786,831,0.9700,context
+ORGANIZATION,Waterloo Industrial Park IX A Private Limited,420,840,885,0.9700,context
+ORGANIZATION,KSH Infra Park IV Private Limited,420,899,932,0.9700,context
+DATE_TIME,"May 22, 2025",420,1012,1024,0.8500,presidio
+DATE_TIME,"November 27, 2025",420,1071,1088,0.8500,presidio
+DATE_TIME,three-month,422,919,930,0.8500,presidio
+DATE_TIME,"June 30, 2025",422,944,957,0.8500,presidio
+LOCATION,Fiscals 2025,422,961,973,0.8500,presidio
+DATE_TIME,2024,422,975,979,0.8500,presidio
+DATE_TIME,2023,422,984,988,0.8500,presidio
+DATE_TIME,three-month,429,730,741,0.8500,presidio
+DATE_TIME,"June 30, 2025",429,755,768,0.8500,presidio
+DATE_TIME,"Fiscal 2025, 2024",429,774,791,0.8500,presidio
+DATE_TIME,"January 14, 2025",429,894,910,0.8500,presidio
+DATE_TIME,"June 30, 2025",431,6,19,0.8500,presidio
+DATE_TIME,2024,438,151,155,0.8500,presidio
+DATE_TIME,2023,438,157,161,0.8500,presidio
+DATE_TIME,three-month,438,174,185,0.8500,presidio
+DATE_TIME,"June 30, 2025",438,199,212,0.8500,presidio
+DATE_TIME,2013,438,967,971,0.8500,presidio
+DATE_TIME,"December 20, 2021",442,1650,1667,0.8500,presidio
+ORGANIZATION,Cloud Services,442,1685,1699,0.9700,context
+ORGANIZATION,Cloud Services,442,1808,1822,0.9700,context
+DATE_TIME,three-month,442,2023,2034,0.8500,presidio
+DATE_TIME,"June 30, 2025",442,2048,2061,0.8500,presidio
+LOCATION,Fiscals 2025,442,2066,2078,0.8500,presidio
+DATE_TIME,2024,442,2080,2084,0.8500,presidio
+DATE_TIME,2023,442,2089,2093,0.8500,presidio
+PERSON,Supa Facility,444,319,332,0.8500,presidio
+LOCATION,Chakan,444,398,404,0.8500,presidio
+LOCATION,Pune,444,406,410,0.8500,presidio
+LOCATION,Maharashtra,444,414,425,0.8500,presidio
+PERSON,Supa Facility,444,586,599,0.8500,presidio
+DATE_TIME,2013,444,1362,1366,0.8500,presidio
+NRP,Indian,449,326,332,0.8500,presidio
+PERSON,Pushpa Hegde,451,88,100,0.8500,presidio
+DATE_TIME,106,454,406,409,0.8500,presidio
+DATE_TIME,"May 6, 2025",458,83,94,0.8500,presidio
+DATE_TIME,"May 6, 2025",458,182,193,0.8500,presidio
+DATE_TIME,"May 6, 2025",458,354,365,0.8500,presidio
+DATE_TIME,"May 22, 2025",458,500,512,0.8500,presidio
+DATE_TIME,"December 6, 2025",458,517,533,0.8500,presidio
+DATE_TIME,1957,461,580,584,0.8500,presidio
+ORGANIZATION,Company KSH International Limited,469,25,58,0.9700,context
+PERSON,Birdewadi Chakan,470,29,45,0.8500,presidio
+LOCATION,Pune,471,0,4,0.8500,presidio
+LOCATION,Maharashtra,472,0,11,0.8500,presidio
+LOCATION,India,472,13,18,0.8500,presidio
+ORGANIZATION,Company KSH International Limited,474,24,57,0.9700,context
+LOCATION,Maharashtra,476,13,24,0.8500,presidio
+LOCATION,India,476,26,31,0.8500,presidio
+US_DRIVER_LICENSE,141032,478,21,27,0.0100,presidio
+LOCATION,RoC,480,15,18,0.8500,presidio
+DATE_TIME,A 1st and 2nd,483,28,41,0.8500,presidio
+ADDRESS,"floor Near Akurdi Railway Station Akurdi, Pune – 411 044 Maharashtra, India",483,42,117,0.9700,context
+PERSON,Sarthak Malvadkar,488,0,17,0.8500,presidio
+PERSON,Gat No.,488,111,118,0.9500,context
+DATE_TIME,11/5,488,131,135,0.8500,presidio
+ADDRESS,"Taluka Khed, District Pune – 410 501",489,0,36,0.9700,context
+LOCATION,Maharashtra,490,0,11,0.8500,presidio
+LOCATION,India,490,13,18,0.8500,presidio
+PHONE_NUMBER,+ 91 20 45053237,491,11,27,1.0000,regex
+EMAIL_ADDRESS,Sarthak.malvadkar@kshinterantional.com,492,8,46,1.0000,regex
+ORGANIZATION,Nuvama Wealth Management Limited,498,0,32,0.9700,context
+LOCATION,Bandra East,500,0,11,0.8500,presidio
+LOCATION,Mumbai,500,13,19,0.8500,presidio
+LOCATION,Maharashtra,500,30,41,0.8500,presidio
+LOCATION,India,500,43,48,0.8500,presidio
+PHONE_NUMBER,+91 22 40094400,501,11,26,1.0000,regex
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,501,34,52,1.0000,regex
+URL,www.nuvama.com,501,62,76,0.8500,presidio
+EMAIL_ADDRESS,customerservice.mb@nuvama.com,502,27,56,1.0000,regex
+PERSON,Lokesh Shah,503,16,27,0.9500,context
+ORGANIZATION,ICICI Securities Limited,505,0,24,0.9700,context
+ADDRESS,"Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India",505,63,115,0.9700,context
+PHONE_NUMBER,+91 22 6807 7100,506,11,27,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,506,35,58,1.0000,regex
+URL,www.icicisecurities.com,506,68,91,0.8500,presidio
+EMAIL_ADDRESS,customercare@icicisecurities.com,506,119,151,1.0000,regex
+PERSON,Kishan Rastogi,507,16,30,0.9500,context
+PERSON,Abhijit Diwan,507,31,44,0.8500,presidio
+ORGANIZATION,Nuvama Wealth Management Limited,512,0,32,0.9700,context
+ADDRESS,"Complex, Bandra East Mumbai 400 051",514,13,48,0.9700,context
+LOCATION,Maharashtra,515,0,11,0.8500,presidio
+LOCATION,India,515,13,18,0.8500,presidio
+PHONE_NUMBER,+ 91 22 4009 4400,516,11,28,1.0000,regex
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,517,7,25,1.0000,regex
+EMAIL_ADDRESS,prakash.boricha@nuvama.com,517,27,53,1.0000,regex
+EMAIL_ADDRESS,sheetal.parab@nuvama.com,517,59,83,1.0000,regex
+URL,www.nuvama.com,518,9,23,0.8500,presidio
+PERSON,Prakash Boricha,519,16,31,0.9500,context
+ORGANIZATION,ICICI Securities Limited,521,0,24,0.9700,context
+ADDRESS,"Marg Prabhadevi, Mumbai – 400 025 Maharashtra, India",521,63,115,0.9700,context
+PHONE_NUMBER,+91 22 6807 7100,522,11,27,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,522,35,58,1.0000,regex
+URL,www.icicisecurities.com,522,68,91,0.8500,presidio
+EMAIL_ADDRESS,customercare@icicisecurities.com,523,27,59,1.0000,regex
+PERSON,Kishan Rastogi,524,16,30,0.9500,context
+PERSON,Abhijit Diwan,524,31,44,0.8500,presidio
+NRP,Indian,526,35,41,0.8500,presidio
+LOCATION,Senapati,529,0,8,0.8500,presidio
+ADDRESS,"Marg, Lower Parel (West) Mumbai – 400 013",529,15,56,0.9700,context
+LOCATION,Maharashtra,530,0,11,0.8500,presidio
+LOCATION,India,530,13,18,0.8500,presidio
+EMAIL_ADDRESS,ipo@trilegal.com,531,7,23,1.0000,regex
+PHONE_NUMBER,+91 22 4079 1000,532,11,27,1.0000,regex
+ORGANIZATION,MUFG Intime India Private Limited,534,0,33,0.9700,context
+ORGANIZATION,Formerly Link Intime India Private Limited,534,35,77,0.9700,context
+ADDRESS,"1st Floor, L B S Marg, Vikhroli (West) Mumbai 400083",535,0,52,0.9700,context
+PHONE_NUMBER,+91 81081 14949,535,86,101,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,536,8,45,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,537,27,64,1.0000,regex
+URL,www.in.mpms.mufg.com,538,9,29,0.8500,presidio
+PERSON,Shanti Gopalkrishnan SEBI Registration No.,538,46,88,0.9500,context
+URL,www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=10,539,21,95,0.8500,presidio
+ORGANIZATION,Offer Escrow Collection Bank HDFC Bank Limited,541,15,61,0.9700,context
+ORGANIZATION,HDFC Bank Limited,542,0,17,0.9700,context
+LOCATION,Kanjurmarg Railway Station,543,8,34,0.8500,presidio
+ADDRESS,"marg (East) Mumbai – 400042, Maharashtra, India",543,42,89,0.9700,context
+PHONE_NUMBER,+91 22 30752929,544,11,26,1.0000,regex
+PHONE_NUMBER,+91 22 30752928,544,28,43,1.0000,regex
+PHONE_NUMBER,+91 22 30752914,544,48,63,1.0000,regex
+EMAIL_ADDRESS,siddharth.jadhav@hdfcbank.com,545,7,36,1.0000,regex
+EMAIL_ADDRESS,sachin.gawade@hdfcbank.com,545,38,64,1.0000,regex
+EMAIL_ADDRESS,eric.bacha@hdfcbank.com,545,65,88,1.0000,regex
+EMAIL_ADDRESS,tushar.gavankar@hdfcbank.com,545,90,118,1.0000,regex
+EMAIL_ADDRESS,pravin.teli2@hdfcbank.com,545,124,149,1.0000,regex
+URL,www.hdfcbank.com,545,159,175,0.8500,presidio
+PERSON,Eric Bacha,546,16,26,0.9500,context
+PERSON,Pravin Teli/,546,43,55,0.8500,presidio
+PERSON,Siddharth Jadhav/ Tushar Gavankar,546,56,89,0.8500,presidio
+ORGANIZATION,ICICI Bank Limited,550,0,18,0.9700,context
+URL,H.T.Pa,552,16,22,0.5000,presidio
+ADDRESS,"Marg Backbay Reclamation Churchgate, Mumbai – 400020",552,27,79,0.9700,context
+PHONE_NUMBER,022-68052182,552,91,103,1.0000,regex
+EMAIL_ADDRESS,Ipocmg@icicibank.com,552,111,131,1.0000,regex
+URL,www.icicibank.com,552,141,158,0.8500,presidio
+PERSON,Varun Badai,552,175,186,0.9500,context
+MEDICAL_LICENSE,BI0000000,553,24,33,1.0000,presidio
+ORGANIZATION,HDFC Bank Limited,555,0,17,0.9700,context
+ORGANIZATION,HDFC Bank Limited,556,0,17,0.9700,context
+LOCATION,Kanjurmarg Railway Station,557,8,34,0.8500,presidio
+ADDRESS,"marg (East) Mumbai – 400042, Maharashtra, India",557,42,89,0.9700,context
+PHONE_NUMBER,+91 22 30752929,558,11,26,1.0000,regex
+PHONE_NUMBER,+91 22 30752928,558,28,43,1.0000,regex
+PHONE_NUMBER,+91 22 30752914,558,48,63,1.0000,regex
+EMAIL_ADDRESS,siddharth.jadhav@hdfcbank.com,559,7,36,1.0000,regex
+EMAIL_ADDRESS,sachin.gawade@hdfcbank.com,559,38,64,1.0000,regex
+EMAIL_ADDRESS,eric.bacha@hdfcbank.com,559,65,88,1.0000,regex
+EMAIL_ADDRESS,tushar.gavankar@hdfcbank.com,559,90,118,1.0000,regex
+EMAIL_ADDRESS,pravin.teli2@hdfcbank.com,559,124,149,1.0000,regex
+URL,www.hdfcbank.com,559,159,175,0.8500,presidio
+PERSON,Eric Bacha,560,16,26,0.9500,context
+PERSON,Pravin Teli/,560,43,55,0.8500,presidio
+PERSON,Siddharth Jadhav/ Tushar Gavankar,560,56,89,0.8500,presidio
+ORGANIZATION,ICICI Bank Limited,564,0,18,0.9700,context
+URL,H.T.Pa,566,16,22,0.5000,presidio
+ADDRESS,"Marg Backbay Reclamation Churchgate, Mumbai – 400020",566,27,79,0.9700,context
+PHONE_NUMBER,022-68052182,566,91,103,1.0000,regex
+EMAIL_ADDRESS,Ipocmg@icicibank.com,566,111,131,1.0000,regex
+URL,www.icicibank.com,566,141,158,0.8500,presidio
+PERSON,Varun Badai,566,175,186,0.9500,context
+MEDICAL_LICENSE,BI0000000,567,24,33,1.0000,presidio
+ORGANIZATION,HDFC Bank Limited,569,0,17,0.9700,context
+ORGANIZATION,HDFC Bank Limited,570,0,17,0.9700,context
+LOCATION,Kanjurmarg Railway Station,571,8,34,0.8500,presidio
+ADDRESS,"marg (East) Mumbai – 400042, Maharashtra, India",571,42,89,0.9700,context
+PHONE_NUMBER,+91 22 30752929,572,11,26,1.0000,regex
+PHONE_NUMBER,+91 22 30752928,572,28,43,1.0000,regex
+PHONE_NUMBER,+91 22 30752914,572,48,63,1.0000,regex
+EMAIL_ADDRESS,siddharth.jadhav@hdfcbank.com,573,7,36,1.0000,regex
+EMAIL_ADDRESS,sachin.gawade@hdfcbank.com,573,38,64,1.0000,regex
+EMAIL_ADDRESS,eric.bacha@hdfcbank.com,573,65,88,1.0000,regex
+EMAIL_ADDRESS,tushar.gavankar@hdfcbank.com,573,90,118,1.0000,regex
+EMAIL_ADDRESS,pravin.teli2@hdfcbank.com,573,124,149,1.0000,regex
+URL,www.hdfcbank.com,573,159,175,0.8500,presidio
+PERSON,Eric Bacha,574,16,26,0.9500,context
+PERSON,Pravin Teli/,574,43,55,0.8500,presidio
+PERSON,Siddharth Jadhav/ Tushar Gavankar,574,56,89,0.8500,presidio
+URL,"http://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognised=yes,",579,72,141,0.9500,presidio
+URL,"https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34,",579,469,552,0.9500,presidio
+URL,https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40,581,376,458,0.9500,presidio
+URL,"https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=43,",581,463,546,0.9500,presidio
+LOCATION,the Specified Locations,582,144,167,0.8500,presidio
+URL,"www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognised=yes&intmId=35,",582,324,396,0.8500,presidio
+URL,www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognised=yes&intmId=35,582,649,720,0.8500,presidio
+URL,www.bseindia.com,584,355,371,0.8500,presidio
+URL,www.nseindia.com,584,376,392,0.8500,presidio
+LOCATION,the Designated RTA Locations,586,54,82,0.8500,presidio
+URL,www.bseindia.com/Static/Markets/PublicIssues/RtaDp.aspx?,586,210,266,0.8500,presidio
+URL,"www.nseindia.com/products/content/equities/ipos/asba_procedures.htm,",586,271,339,0.8500,presidio
+URL,https://www.bseindia.com/Static/PublicIssues/RtaDp.aspx,588,196,251,0.9500,presidio
+URL,"https://www.nseindia.com/products/content/equities/ipos/asba_procedures.htm,",589,0,76,0.6000,presidio
+DATE_TIME,"November 27, 2025",592,51,68,0.8500,presidio
+DATE_TIME,2013,592,221,225,0.8500,presidio
+DATE_TIME,2013,592,362,366,0.8500,presidio
+DATE_TIME,"October 18, 2025",592,484,500,0.8500,presidio
+LOCATION,India,592,674,679,0.8500,presidio
+DATE_TIME,"November 27, 2025",592,686,703,0.8500,presidio
+DATE_TIME,"November 27, 2025",593,47,64,0.8500,presidio
+LOCATION,Lalit Muljibhai Sarvaiya,593,70,94,0.8500,presidio
+DATE_TIME,2013,593,169,173,0.8500,presidio
+DATE_TIME,2013,593,311,315,0.8500,presidio
+DATE_TIME,"December 10, 2025",594,47,64,0.8500,presidio
+ORGANIZATION,Kanj & Co. LLP,594,70,84,0.8500,spacy
+DATE_TIME,2013,594,201,205,0.8500,presidio
+DATE_TIME,2013,594,305,309,0.8500,presidio
+PERSON,Gopal House,597,19,30,0.8500,presidio
+LOCATION,Plot A1,598,17,24,0.8500,presidio
+LOCATION,Opp Harshal Hall Kothrud,598,25,49,0.8500,presidio
+LOCATION,Pune,599,0,4,0.8500,presidio
+LOCATION,Maharashtra,600,0,11,0.8500,presidio
+LOCATION,India,600,13,18,0.8500,presidio
+EMAIL_ADDRESS,parag.pansare@kirtanepandit.com,601,8,39,1.0000,regex
+PHONE_NUMBER,+ 91 (20) 6729 5100,602,11,30,0.7500,presidio
+US_DRIVER_LICENSE,W100057,603,35,42,0.3000,presidio
+US_DRIVER_LICENSE,014680,604,20,26,0.0100,presidio
+DATE_TIME,the three years preceding the date of this,606,78,120,0.8500,presidio
+LOCATION,Onyx Tower North Main Road,609,11,37,0.8500,presidio
+LOCATION,Koregaon Park,610,0,13,0.8500,presidio
+LOCATION,Pune,610,15,19,0.8500,presidio
+LOCATION,Maharashtra,610,30,41,0.8500,presidio
+LOCATION,India,610,43,48,0.8500,presidio
+PHONE_NUMBER,+91 20 6606 4494,611,11,27,1.0000,regex
+PERSON,Hitesh Ramani,612,16,29,0.9500,context
+URL,http://commercialbanking.citibank.com,613,9,46,0.9500,presidio
+EMAIL_ADDRESS,hitesh.ramani@citi.com,614,7,29,1.0000,regex
+LOCATION,Signature Building,618,0,18,0.8500,presidio
+ADDRESS,"Nagar, Pune – 411 004 Maharashtra, India",618,44,84,0.9700,context
+PHONE_NUMBER,+91 20 2640 3100,619,11,27,1.0000,regex
+PERSON,Chitra Raste Website,619,44,64,0.9500,context
+URL,www.eximbankindia.in/,619,66,87,0.8500,presidio
+EMAIL_ADDRESS,pro@eximbankindia.in,619,95,115,1.0000,regex
+ORGANIZATION,IndusInd Bank Limited,620,0,21,0.9700,context
+LOCATION,Pune,621,0,4,0.8500,presidio
+LOCATION,Maharashtra,622,0,11,0.8500,presidio
+LOCATION,India,622,13,18,0.8500,presidio
+PHONE_NUMBER,+91-20-26234000,623,11,26,1.0000,regex
+PERSON,Sharmila Joshi Website,623,43,65,0.9500,context
+URL,www.indusind.com/,623,67,84,0.8500,presidio
+EMAIL_ADDRESS,sharmila.joshi@indusind.com,623,92,119,1.0000,regex
+ORGANIZATION,ICICI Bank Limited,624,0,18,0.9700,context
+PERSON,Tanishq Showroom,625,55,71,0.8500,presidio
+ADDRESS,"Road, Pune – 411 001 Maharashtra, India",626,12,51,0.9700,context
+PHONE_NUMBER,+ 91 8879770456,627,11,26,1.0000,regex
+PERSON,Cherag Gyara Website,627,43,63,0.9500,context
+URL,www.icicibank.com,627,65,82,0.8500,presidio
+EMAIL_ADDRESS,cherag.gyara@icicibank.com,627,90,116,1.0000,regex
+ORGANIZATION,HDFC Bank Limited,628,0,17,0.9700,context
+LOCATION,Pune,630,0,4,0.8500,presidio
+LOCATION,Maharashtra,631,0,11,0.8500,presidio
+LOCATION,India,631,13,18,0.8500,presidio
+PHONE_NUMBER,+91 20 6769 4648,632,11,27,1.0000,regex
+PERSON,Manisha Shukla Website,632,44,66,0.9500,context
+URL,www.hdfcbank.com,632,68,84,0.8500,presidio
+EMAIL_ADDRESS,manisha.shukla@hdfcbank.com,633,7,34,1.0000,regex
+PERSON,Tara Chambers,635,0,13,0.8500,presidio
+LOCATION,Mumbai,635,15,21,0.8500,presidio
+LOCATION,Pune,636,0,4,0.8500,presidio
+LOCATION,Maharashtra,637,0,11,0.8500,presidio
+LOCATION,India,637,13,18,0.8500,presidio
+PHONE_NUMBER,+91 20 2561 8211,638,11,27,1.0000,regex
+PERSON,Tushar Wakhele Website,638,44,66,0.9500,context
+URL,www.sbi.co.in,638,68,81,0.8500,presidio
+EMAIL_ADDRESS,rm6.ifbpune@sbi.co.in,639,7,28,1.0000,regex
+ORGANIZATION,The Federal Bank Limited,640,0,24,0.9700,context
+LOCATION,Kubera Chambers Opp,640,39,58,0.8500,presidio
+LOCATION,Pune,640,92,96,0.8500,presidio
+DATE_TIME,41l 005,640,99,106,0.8500,presidio
+LOCATION,Maharashtra,640,107,118,0.8500,presidio
+LOCATION,India,640,120,125,0.8500,presidio
+PHONE_NUMBER,+ 91 91586 40360,641,11,27,1.0000,regex
+PERSON,Ashish Mathew Pulloor,642,16,37,0.9500,context
+URL,www.federalbank.co.in,643,9,30,0.8500,presidio
+EMAIL_ADDRESS,ashishmp@federalbank.co.in,644,7,33,1.0000,regex
+ORGANIZATION,Bajaj Finance Limited,645,0,21,0.9700,context
+PHONE_NUMBER,+91 20 7157 6403,648,11,27,1.0000,regex
+PERSON,Anand Soni Website,648,44,62,0.9500,context
+URL,www.bajajfinance.com,648,64,84,0.8500,presidio
+EMAIL_ADDRESS,anand.soni@bajajfinserv.in,648,92,118,1.0000,regex
+ORGANIZATION,CARE Ratings Limited,654,137,157,0.9700,context
+URL,https://siportal.sebi.gov.in,662,103,131,0.6000,presidio
+ORGANIZATION,Corporation Finance Department Division of Issues,664,0,49,0.8500,spacy
+PERSON,Listing SEBI Bhavan,664,54,73,0.8500,presidio
+US_DRIVER_LICENSE,C4,664,84,86,0.3000,presidio
+ADDRESS,"Complex, Bandra (E) Mumbai – 400 051, Maharashtra, India",665,13,69,0.9700,context
+LOCATION,RoC,667,172,175,0.8500,presidio
+DATE_TIME,2013,667,270,274,0.8500,presidio
+LOCATION,RoC,667,299,302,0.8500,presidio
+NRP,English,669,409,416,0.8500,presidio
+DATE_TIME,daily,669,426,431,0.8500,presidio
+DATE_TIME,daily,669,505,510,0.8500,presidio
+DATE_TIME,Working Days,669,697,709,0.8500,presidio
+LOCATION,RoC,676,107,110,0.8500,presidio
+LOCATION,RoC,679,126,129,0.8500,presidio
+LOCATION,RoC,681,207,210,0.8500,presidio
+LOCATION,₹,687,4,5,0.8500,presidio
+DATE_TIME,the last 10 years,689,94,111,0.8500,presidio
+DATE_TIME,the last 10 years,689,205,222,0.8500,presidio
+DATE_TIME,"May 6, 2025",690,103,114,0.8500,presidio
+DATE_TIME,"May 6, 2025",690,233,244,0.8500,presidio
+DATE_TIME,"May 6, 2025",690,405,416,0.8500,presidio
+DATE_TIME,"May 22, 2025",690,551,563,0.8500,presidio
+DATE_TIME,"December 6, 2025",690,568,584,0.8500,presidio
+DATE_TIME,at least one year,691,296,313,0.8500,presidio
+ADDRESS,"11/3, 11/4 and 11/5 Village Birdewadi Chakan Taluka - Khed Pune – 410 501
+Maharashtra, India",699,0,92,0.9700,context
+ADDRESS,"201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner Pune – 411 045
+Maharashtra, India",700,0,97,0.9700,context
+EMAIL_ADDRESS,cs.connect@kshinternational.com,703,7,38,1.0000,regex
+PHONE_NUMBER,+ 91 20 45053237,703,50,66,1.0000,regex
+EMAIL_ADDRESS,cs.connect@kshinternational.com,704,7,38,1.0000,regex
+PHONE_NUMBER,+ 91 20 45053237,704,50,66,1.0000,regex
+PERSON,KUSHAL SUBBAYYA HEGDE,706,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,706,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,706,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,706,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,706,263,306,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,707,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,707,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,707,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,707,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,707,263,306,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,708,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,708,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,708,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,708,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,708,263,306,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,709,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,709,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,709,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,709,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,709,263,306,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,710,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,710,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,710,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,710,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,710,263,306,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,711,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,711,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,711,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,711,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,711,263,306,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,712,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,712,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,712,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,712,80,98,0.8500,presidio
+LOCATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,712,263,306,0.8500,presidio
+DATE_TIME,2018,732,158,162,0.8500,presidio
+DATE_TIME,2018,733,158,162,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,755,0,19,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,762,0,19,0.8500,presidio
+PERSON,Rohit Kushal Hegde,769,0,18,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,776,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",776,120,137,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,777,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",777,120,137,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,778,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",778,120,137,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,779,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",779,120,137,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,780,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",780,120,137,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,781,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",781,120,137,0.8500,presidio
+ORGANIZATION,Kirtane & Pandit LLP,782,17,37,0.8500,spacy
+DATE_TIME,"December 10, 2025",782,120,137,0.8500,presidio
+PERSON,Cap Price,790,190,199,0.8500,presidio
+LOCATION,the Book Building Process,790,430,455,0.8500,presidio
+PERSON,Cap Price,791,190,199,0.8500,presidio
+LOCATION,the Book Building Process,791,430,455,0.8500,presidio
+PERSON,Cap Price,792,190,199,0.8500,presidio
+LOCATION,the Book Building Process,792,430,455,0.8500,presidio
+PERSON,Cap Price,793,190,199,0.8500,presidio
+LOCATION,the Book Building Process,793,430,455,0.8500,presidio
+PERSON,Cap Price,794,190,199,0.8500,presidio
+LOCATION,the Book Building Process,794,430,455,0.8500,presidio
+PERSON,Cap Price,795,190,199,0.8500,presidio
+LOCATION,the Book Building Process,795,430,455,0.8500,presidio
+PERSON,Cap Price,796,190,199,0.8500,presidio
+LOCATION,the Book Building Process,796,430,455,0.8500,presidio
+LOCATION,India,811,0,5,0.8500,presidio
+LOCATION,India,812,0,5,0.8500,presidio
+LOCATION,India,813,0,5,0.8500,presidio
+LOCATION,India,814,0,5,0.8500,presidio
+LOCATION,India,815,0,5,0.8500,presidio
+LOCATION,India,816,0,5,0.8500,presidio
+LOCATION,India,817,0,5,0.8500,presidio
+LOCATION,India,818,0,5,0.8500,presidio
+LOCATION,India,819,0,5,0.8500,presidio
+ORGANIZATION,BSE Limited,847,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,847,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,848,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,848,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,849,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,849,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,850,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,850,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,851,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,851,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,852,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,852,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,853,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,853,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,854,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,854,119,159,0.8500,spacy
+ORGANIZATION,BSE Limited,855,95,106,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,855,119,159,0.8500,spacy
+ORGANIZATION,Nuvama	Wealth Management Limited,874,0,32,0.9700,context
+ORGANIZATION,Nuvama	Wealth Management Limited,875,0,32,0.9700,context
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,880,7,25,1.0000,regex
+PHONE_NUMBER,+91 22 4009 4400,880,37,53,1.0000,regex
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,881,7,25,1.0000,regex
+PHONE_NUMBER,+91 22 4009 4400,881,37,53,1.0000,regex
+ORGANIZATION,ICICI	Securities Limited,882,0,24,0.9700,context
+ORGANIZATION,ICICI	Securities Limited,883,0,24,0.9700,context
+PERSON,Kishan Rastogi/ Abhijit Diwan,884,0,29,0.8500,presidio
+PERSON,Kishan Rastogi/ Abhijit Diwan,885,0,29,0.8500,presidio
+PERSON,Kishan Rastogi/ Abhijit Diwan,886,0,29,0.8500,presidio
+PERSON,Kishan Rastogi/ Abhijit Diwan,887,0,29,0.8500,presidio
+EMAIL_ADDRESS,ksh@icicisecurities.com,888,7,30,1.0000,regex
+PHONE_NUMBER,+91 22 6807 7100,888,42,58,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,889,7,30,1.0000,regex
+PHONE_NUMBER,+91 22 6807 7100,889,42,58,1.0000,regex
+ORGANIZATION,MUFG Intime India Private Limited,908,0,33,0.9700,context
+ORGANIZATION,Formerly Link Intime India Private Limited,908,35,77,0.9700,context
+PERSON,Shanti Gopalkrishnan,909,0,20,0.8500,presidio
+PERSON,Shanti Gopalkrishnan,910,0,20,0.8500,presidio
+PHONE_NUMBER,+91 81081 14949,911,11,26,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,911,35,72,1.0000,regex
+PHONE_NUMBER,+91 81081 14949,912,11,26,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,912,35,72,1.0000,regex
+PHONE_NUMBER,+91 81081 14949,913,11,26,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,913,35,72,1.0000,regex
+PHONE_NUMBER,+91 81081 14949,914,11,26,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,914,35,72,1.0000,regex
+PHONE_NUMBER,+91 81081 14949,915,11,26,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,915,35,72,1.0000,regex
+PHONE_NUMBER,+91 81081 14949,916,11,26,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,916,35,72,1.0000,regex
+DATE_TIME,"Monday, December 15",927,0,19,0.8500,presidio
+DATE_TIME,2025,927,21,25,0.8500,presidio
+DATE_TIME,"Tuesday, December
+16",930,0,20,0.8500,presidio
+DATE_TIME,2025,930,22,26,0.8500,presidio
+DATE_TIME,"Thursday, December 18, 2025",934,0,27,0.8500,presidio
+PERSON,KUSHAL SUBBAYYA HEGDE,935,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,935,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,935,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,935,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,935,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,936,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,936,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,936,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,936,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,936,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,937,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,937,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,937,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,937,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,937,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,938,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,938,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,938,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,938,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,938,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,939,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,939,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,939,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,939,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,939,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,940,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,940,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,940,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,940,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,940,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,941,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,941,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,941,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,941,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,941,263,306,0.8500,spacy
+PERSON,KUSHAL SUBBAYYA HEGDE,942,15,36,0.9500,context
+PERSON,PUSHPA KUSHAL HEGDE,942,38,57,0.8500,presidio
+PERSON,RAJESH KUSHAL HEGDE,942,59,78,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,942,80,98,0.8500,presidio
+ORGANIZATION,WATERLOO INDUSTRIAL PARK VI PRIVATE LIMITED,942,263,306,0.8500,spacy
+ORGANIZATION,KSH INTERNATIONAL LIMITED,943,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,943,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,943,963,981,0.8500,presidio
+DATE_TIME,2018,943,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,944,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,944,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,944,963,981,0.8500,presidio
+DATE_TIME,2018,944,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,945,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,945,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,945,963,981,0.8500,presidio
+DATE_TIME,2018,945,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,946,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,946,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,946,963,981,0.8500,presidio
+DATE_TIME,2018,946,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,947,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,947,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,947,963,981,0.8500,presidio
+DATE_TIME,2018,947,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,948,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,948,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,948,963,981,0.8500,presidio
+DATE_TIME,2018,948,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,949,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,949,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,949,963,981,0.8500,presidio
+DATE_TIME,2018,949,2155,2159,0.8500,presidio
+ORGANIZATION,KSH INTERNATIONAL LIMITED,950,97,122,0.8500,spacy
+PERSON,RAJESH KUSHAL HEGDE,950,853,872,0.8500,presidio
+PERSON,ROHIT KUSHAL HEGDE,950,963,981,0.8500,presidio
+DATE_TIME,2018,950,2155,2159,0.8500,presidio
+DATE_TIME,10 Working Days,951,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,951,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,952,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,952,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,953,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,953,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,954,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,954,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,955,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,955,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,956,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,956,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,957,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,957,522,537,0.8500,presidio
+DATE_TIME,10 Working Days,958,208,223,0.8500,presidio
+DATE_TIME,10 Working Days,958,522,537,0.8500,presidio
+DATE_TIME,1957,959,98,102,0.8500,presidio
+DATE_TIME,1957,960,98,102,0.8500,presidio
+DATE_TIME,1957,961,98,102,0.8500,presidio
+DATE_TIME,1957,962,98,102,0.8500,presidio
+DATE_TIME,1957,963,98,102,0.8500,presidio
+DATE_TIME,1957,964,98,102,0.8500,presidio
+DATE_TIME,1957,965,98,102,0.8500,presidio
+DATE_TIME,1957,966,98,102,0.8500,presidio
+PERSON,Cap Price,975,202,211,0.8500,presidio
+LOCATION,the Book Building Process,975,427,452,0.8500,presidio
+PERSON,Cap Price,976,202,211,0.8500,presidio
+LOCATION,the Book Building Process,976,427,452,0.8500,presidio
+PERSON,Cap Price,977,202,211,0.8500,presidio
+LOCATION,the Book Building Process,977,427,452,0.8500,presidio
+PERSON,Cap Price,978,202,211,0.8500,presidio
+LOCATION,the Book Building Process,978,427,452,0.8500,presidio
+PERSON,Cap Price,979,202,211,0.8500,presidio
+LOCATION,the Book Building Process,979,427,452,0.8500,presidio
+PERSON,Cap Price,980,202,211,0.8500,presidio
+LOCATION,the Book Building Process,980,427,452,0.8500,presidio
+PERSON,Cap Price,981,202,211,0.8500,presidio
+LOCATION,the Book Building Process,981,427,452,0.8500,presidio
+PERSON,Cap Price,982,202,211,0.8500,presidio
+LOCATION,the Book Building Process,982,427,452,0.8500,presidio
+DATE_TIME,"August 4, 2025",1023,249,263,0.8500,presidio
+LOCATION,RoC,1023,416,419,0.8500,presidio
+LOCATION,RoC,1023,473,476,0.8500,presidio
+DATE_TIME,2013,1023,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1024,249,263,0.8500,presidio
+LOCATION,RoC,1024,416,419,0.8500,presidio
+LOCATION,RoC,1024,473,476,0.8500,presidio
+DATE_TIME,2013,1024,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1025,249,263,0.8500,presidio
+LOCATION,RoC,1025,416,419,0.8500,presidio
+LOCATION,RoC,1025,473,476,0.8500,presidio
+DATE_TIME,2013,1025,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1026,249,263,0.8500,presidio
+LOCATION,RoC,1026,416,419,0.8500,presidio
+LOCATION,RoC,1026,473,476,0.8500,presidio
+DATE_TIME,2013,1026,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1027,249,263,0.8500,presidio
+LOCATION,RoC,1027,416,419,0.8500,presidio
+LOCATION,RoC,1027,473,476,0.8500,presidio
+DATE_TIME,2013,1027,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1028,249,263,0.8500,presidio
+LOCATION,RoC,1028,416,419,0.8500,presidio
+LOCATION,RoC,1028,473,476,0.8500,presidio
+DATE_TIME,2013,1028,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1029,249,263,0.8500,presidio
+LOCATION,RoC,1029,416,419,0.8500,presidio
+LOCATION,RoC,1029,473,476,0.8500,presidio
+DATE_TIME,2013,1029,540,544,0.8500,presidio
+DATE_TIME,"August 4, 2025",1030,249,263,0.8500,presidio
+LOCATION,RoC,1030,416,419,0.8500,presidio
+LOCATION,RoC,1030,473,476,0.8500,presidio
+DATE_TIME,2013,1030,540,544,0.8500,presidio
+ORGANIZATION,Nuvama Wealth Management Limited,1039,0,32,0.9700,context
+ADDRESS,"Complex, Bandra East, Mumbai 400051, Maharashtra, India",1039,102,157,0.9700,context
+PHONE_NUMBER,+91 22 40094400,1039,163,178,1.0000,regex
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,1039,187,205,1.0000,regex
+URL,www.nuvama.com,1039,215,229,0.8500,presidio
+EMAIL_ADDRESS,customerservice.mb@nuvama.com,1039,256,285,1.0000,regex
+PERSON,Lokesh Shah,1039,302,313,0.9500,context
+ORGANIZATION,Nuvama Wealth Management Limited,1040,0,32,0.9700,context
+ADDRESS,"Complex, Bandra East, Mumbai 400051, Maharashtra, India",1040,102,157,0.9700,context
+PHONE_NUMBER,+91 22 40094400,1040,163,178,1.0000,regex
+EMAIL_ADDRESS,ksh.ipo@nuvama.com,1040,187,205,1.0000,regex
+URL,www.nuvama.com,1040,215,229,0.8500,presidio
+EMAIL_ADDRESS,customerservice.mb@nuvama.com,1040,256,285,1.0000,regex
+PERSON,Lokesh Shah,1040,302,313,0.9500,context
+ORGANIZATION,ICICI Securities Limited,1041,0,24,0.9700,context
+ADDRESS,"Marg, Prabhadevi, Mumbai 400025, Maharashtra, India",1041,64,115,0.9700,context
+PHONE_NUMBER,+91 22 6807 7100,1041,121,137,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,1041,146,169,1.0000,regex
+URL,www.icicisecurities.com,1041,179,202,0.8500,presidio
+EMAIL_ADDRESS,customercare@icicisecurities.com,1041,229,261,1.0000,regex
+PERSON,Kishan Rastogi,1041,278,292,0.9500,context
+ORGANIZATION,ICICI Securities Limited,1042,0,24,0.9700,context
+ADDRESS,"Marg, Prabhadevi, Mumbai 400025, Maharashtra, India",1042,64,115,0.9700,context
+PHONE_NUMBER,+91 22 6807 7100,1042,121,137,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,1042,146,169,1.0000,regex
+URL,www.icicisecurities.com,1042,179,202,0.8500,presidio
+EMAIL_ADDRESS,customercare@icicisecurities.com,1042,229,261,1.0000,regex
+PERSON,Kishan Rastogi,1042,278,292,0.9500,context
+ORGANIZATION,ICICI Securities Limited,1043,0,24,0.9700,context
+ADDRESS,"Marg, Prabhadevi, Mumbai 400025, Maharashtra, India",1043,64,115,0.9700,context
+PHONE_NUMBER,+91 22 6807 7100,1043,121,137,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,1043,146,169,1.0000,regex
+URL,www.icicisecurities.com,1043,179,202,0.8500,presidio
+EMAIL_ADDRESS,customercare@icicisecurities.com,1043,229,261,1.0000,regex
+PERSON,Kishan Rastogi,1043,278,292,0.9500,context
+ORGANIZATION,ICICI Securities Limited,1044,0,24,0.9700,context
+ADDRESS,"Marg, Prabhadevi, Mumbai 400025, Maharashtra, India",1044,64,115,0.9700,context
+PHONE_NUMBER,+91 22 6807 7100,1044,121,137,1.0000,regex
+EMAIL_ADDRESS,ksh@icicisecurities.com,1044,146,169,1.0000,regex
+URL,www.icicisecurities.com,1044,179,202,0.8500,presidio
+EMAIL_ADDRESS,customercare@icicisecurities.com,1044,229,261,1.0000,regex
+PERSON,Kishan Rastogi,1044,278,292,0.9500,context
+ORGANIZATION,MUFG Intime India Private Limited,1045,0,33,0.9700,context
+ORGANIZATION,Formerly Link Intime India Private Limited,1045,35,77,0.9700,context
+ADDRESS,"101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083",1045,81,152,0.9700,context
+LOCATION,India,1045,169,174,0.8500,presidio
+PHONE_NUMBER,+91 81081 14949,1045,180,195,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,1045,204,241,1.0000,regex
+URL,www.in.mpms.mufg.com,1045,251,271,0.8500,presidio
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,1045,299,336,1.0000,regex
+PERSON,"Shanti Gopalkrishnan
+SEBI Registration Number",1045,353,398,0.9500,context
+ORGANIZATION,MUFG Intime India Private Limited,1046,0,33,0.9700,context
+ORGANIZATION,Formerly Link Intime India Private Limited,1046,35,77,0.9700,context
+ADDRESS,"101, Embassy 247, 1st Floor, L B S Marg, Vikhroli (West), Mumbai 400083",1046,81,152,0.9700,context
+LOCATION,India,1046,169,174,0.8500,presidio
+PHONE_NUMBER,+91 81081 14949,1046,180,195,1.0000,regex
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,1046,204,241,1.0000,regex
+URL,www.in.mpms.mufg.com,1046,251,271,0.8500,presidio
+EMAIL_ADDRESS,kshinternational.ipo@in.mpms.mufg.com,1046,299,336,1.0000,regex
+PERSON,"Shanti Gopalkrishnan
+SEBI Registration Number",1046,353,398,0.9500,context
+DATE_TIME,"Monday, December 15",1056,0,19,0.8500,presidio
+DATE_TIME,2025,1056,21,25,0.8500,presidio
+DATE_TIME,"Monday, December 15",1057,0,19,0.8500,presidio
+DATE_TIME,2025,1057,21,25,0.8500,presidio
+DATE_TIME,"Tuesday, December 16",1059,0,20,0.8500,presidio
+DATE_TIME,2025,1059,22,26,0.8500,presidio
+DATE_TIME,"Thursday, December 18, 2025",1062,0,27,0.8500,presidio
+ORGANIZATION,KSH International Limited,1066,0,25,0.9700,context
+DATE_TIME,1956,1066,90,94,0.8500,presidio
+ADDRESS,"11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India",1066,128,224,0.9900,context
+ORGANIZATION,Kirtane & Pandit LLP,1076,53,73,0.8500,spacy
+DATE_TIME,"February 21, 2025",1080,26,43,0.8500,presidio
+DATE_TIME,"February 10, 2025",1080,178,195,0.8500,presidio
+LOCATION,India,1082,74,79,0.8500,presidio
+DATE_TIME,"November 26, 2025",1082,87,104,0.8500,presidio
+ORGANIZATION,CARE Analytics and Advisory Private Limited,1082,129,172,0.8500,spacy
+DATE_TIME,"December 2, 2024",1082,271,287,0.8500,presidio
+ORGANIZATION,CARE Analytics and Advisory Private Limited,1082,306,349,0.8500,spacy
+URL,https://kshinternational.com/investor-relations/industry-report/,1082,456,520,0.9500,presidio
+PERSON,Sandesh Bhagwat,1086,50,65,0.8500,presidio
+PERSON,Amod Joshi,1088,50,60,0.8500,presidio
+PERSON,Sarthak Malvadkar,1090,67,84,0.8500,presidio
+ADDRESS,"of our company located at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",1094,21,146,0.9900,context
+ORGANIZATION,Waterloo Industrial Park VI Private Limited,1096,0,43,0.9700,context
+DATE_TIME,"May 6, 2025",1106,155,166,0.8500,presidio
+PERSON,Rajesh Branch,1108,16,29,0.8500,presidio
+ORGANIZATION,"Waterloo Motors Private Limited, KSH Project Management Services Private Limited",1112,18,98,0.9700,context
+ORGANIZATION,"Private Limited, KSH Infra Park VI Private Limited, KSH Distriparks Private Limited",1112,117,200,0.9700,context
+ORGANIZATION,KSH Integrated Logistics Private Limited,1112,202,242,0.9700,context
+ORGANIZATION,"Electricals Private Limited, Waterloo Industrial Park I Private Limited",1112,262,333,0.9700,context
+ORGANIZATION,"Waterloo Industrial Park II Private Limited, Waterloo Industrial Park III Private Limited",1112,335,424,0.9700,context
+ORGANIZATION,"Waterloo Industrial Park IV Private Limited, Waterloo Industrial Park V Private Limited",1112,426,513,0.9700,context
+ORGANIZATION,"Waterloo Industrial Park VI Private Limited, Waterloo Industrial Park VIII Private Limited",1112,515,605,0.9700,context
+ORGANIZATION,Waterloo Industrial Park IX Private Limited,1112,607,650,0.9700,context
+ORGANIZATION,Waterloo Industrial Park IX B Private Limited,1112,652,697,0.9700,context
+ORGANIZATION,"Waterloo Industrial Park IX A Private
+Limited",1112,699,744,0.9700,context
+ORGANIZATION,KSH Infra Park IV Private Limited,1112,750,783,0.9700,context
+PERSON,Lalit Muljibhai Sarvaiya,1116,69,93,0.8500,presidio
+US_DRIVER_LICENSE,140388,1116,124,130,0.0100,presidio
+ORGANIZATION,CARE Analytics and Advisory Private Limited,1118,34,77,0.8500,spacy
+PERSON,Rohit Kushal Hegde,1122,50,68,0.8500,presidio
+DATE_TIME,2013,1124,141,145,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,1126,45,64,0.8500,presidio
+DATE_TIME,"May 17, 2025",1128,35,47,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,1136,23,42,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,1140,23,42,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,1140,44,63,0.8500,presidio
+PERSON,Rohit Kushal Hegde,1140,65,83,0.8500,presidio
+PERSON,Rakhi Girija Shetty,1140,88,107,0.8500,presidio
+ORGANIZATION,Waterloo Industrial Park VI Private Limited,1140,251,294,0.9700,context
+PERSON,Pushpa Kushal Hegde,1142,23,42,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,1142,44,63,0.8500,presidio
+PERSON,Rohit Kushal Hegde,1142,68,86,0.8500,presidio
+PERSON,Rajesh Branch,1145,0,13,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,1146,0,19,0.8500,presidio
+PERSON,Rakhi Girija Shetty,1148,0,19,0.8500,presidio
+ADDRESS,"of our Company located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India",1150,22,142,0.9900,context
+DATE_TIME,three-month,1156,129,140,0.8500,presidio
+DATE_TIME,"June 30, 2025",1156,154,167,0.8500,presidio
+DATE_TIME,the years ended March 31,1156,176,200,0.8500,presidio
+DATE_TIME,2025,1156,202,206,0.8500,presidio
+DATE_TIME,"March 31, 2024",1156,208,222,0.8500,presidio
+DATE_TIME,March 31,1156,227,235,0.8500,presidio
+DATE_TIME,2023,1156,237,241,0.8500,presidio
+DATE_TIME,three-months,1156,583,595,0.8500,presidio
+DATE_TIME,"June 30, 2025",1156,609,622,0.8500,presidio
+DATE_TIME,the years ended March 31,1156,632,656,0.8500,presidio
+DATE_TIME,2025,1156,658,662,0.8500,presidio
+DATE_TIME,"March 31, 2024",1156,664,678,0.8500,presidio
+DATE_TIME,March 31,1156,683,691,0.8500,presidio
+DATE_TIME,2023,1156,693,697,0.8500,presidio
+DATE_TIME,2019,1156,883,887,0.8500,presidio
+LOCATION,India,1156,1066,1071,0.8500,presidio
+PERSON,Rohit Branch,1159,0,12,0.8500,presidio
+PERSON,Rohit Kushal Hegde,1160,0,18,0.8500,presidio
+PERSON,Sangeeta Ramprasad Rai,1162,0,22,0.8500,presidio
+DATE_TIME,"February 10, 2025",1164,68,85,0.8500,presidio
+DATE_TIME,"February 11, 2025",1164,90,107,0.8500,presidio
+DATE_TIME,20 and 85,1164,399,408,0.8500,presidio
+PERSON,Supa Facility,1171,0,13,0.8500,presidio
+PERSON,Supa Ahilyanagar,1172,38,54,0.8500,presidio
+LOCATION,Maharashtra,1172,80,91,0.8500,presidio
+ADDRESS,"25, Taloja Industrial Area, Village Padghe, Taluka Panvel, Raigad – 410 208, Maharashtra, India",1174,49,144,0.9700,context
+LOCATION,Village Birdewadi,1176,59,76,0.8500,presidio
+ADDRESS,"Taluka - Khed, Pune – 410 501, Maharashtra, India",1176,85,134,0.9700,context
+ADDRESS,"5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India",1178,47,150,0.9700,context
+PERSON,Rakhi Girija Shetty,1180,46,65,0.8500,presidio
+DATE_TIME,Working Day,1200,14,25,0.8500,presidio
+PERSON,ASBA Account,1211,0,12,0.8500,presidio
+LOCATION,the Refund Bank,1220,42,57,0.8500,presidio
+DATE_TIME,"December 18, 2025",1232,150,167,0.8500,presidio
+NRP,English,1232,252,259,0.8500,presidio
+DATE_TIME,daily,1232,269,274,0.8500,presidio
+DATE_TIME,daily,1232,348,353,0.8500,presidio
+DATE_TIME,daily,1232,424,429,0.8500,presidio
+DATE_TIME,Working Day,1232,900,911,0.8500,presidio
+DATE_TIME,"December 16, 2025",1234,149,166,0.8500,presidio
+NRP,English,1234,251,258,0.8500,presidio
+DATE_TIME,daily,1234,268,273,0.8500,presidio
+DATE_TIME,daily,1237,73,78,0.8500,presidio
+DATE_TIME,daily,1237,149,154,0.8500,presidio
+DATE_TIME,three Working Days,1239,391,409,0.8500,presidio
+DATE_TIME,10 Working Days,1239,712,727,0.8500,presidio
+PERSON,Schedule XIII,1245,38,51,0.8500,presidio
+ORGANIZATION,Nuvama Wealth Management Limited,1247,52,84,0.9700,context
+ORGANIZATION,ICICI Securities Limited,1247,89,113,0.9700,context
+URL,www.bseindia.com,1249,377,393,0.8500,presidio
+URL,www.nseindia.com,1249,398,414,0.8500,presidio
+PERSON,Cap Price,1252,0,9,0.8500,presidio
+DATE_TIME,"December 9, 2025",1255,16,32,0.8500,presidio
+DATE_TIME,11/2015,1259,197,204,0.2000,presidio
+DATE_TIME,"November 10, 2015",1259,211,228,0.8500,presidio
+URL,www.bseindia.com,1259,464,480,0.8500,presidio
+URL,www.nseindia.com,1259,485,501,0.8500,presidio
+URL,www.bseindia.com,1265,320,336,0.8500,presidio
+URL,www.nseindia.com,1265,341,357,0.8500,presidio
+URL,www.bseindia.com,1274,287,303,0.8500,presidio
+URL,www.nseindia.com,1274,308,324,0.8500,presidio
+URL,www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognised=yes,1276,118,179,0.8500,presidio
+DATE_TIME,"May 22, 2025",1280,39,51,0.8500,presidio
+NRP,Indian,1284,15,21,0.8500,presidio
+LOCATION,India,1284,58,63,0.8500,presidio
+ORGANIZATION,HDFC Bank Limited,1288,182,199,0.9700,context
+DATE_TIME,2012,1298,116,120,0.8500,presidio
+DATE_TIME,"March 17, 2020",1300,161,175,0.8500,presidio
+ORGANIZATION,ICICI Securities Limited,1306,0,24,0.9700,context
+DATE_TIME,1938,1308,129,133,0.8500,presidio
+ORGANIZATION,CARE Ratings Limited,1310,84,104,0.9700,context
+DATE_TIME,"December 6, 2025",1312,20,36,0.8500,presidio
+LOCATION,India,1329,26,31,0.8500,presidio
+ORGANIZATION,Nuvama Wealth Management Limited,1331,0,32,0.9700,context
+DATE_TIME,"May 22, 2025",1335,20,32,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,1337,329,348,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,1337,436,455,0.8500,presidio
+PERSON,Rohit Kushal Hegde,1337,546,564,0.8500,presidio
+DATE_TIME,2013,1345,160,164,0.8500,presidio
+PERSON,Cap Price,1347,117,126,0.8500,presidio
+NRP,English,1347,475,482,0.8500,presidio
+DATE_TIME,daily,1347,492,497,0.8500,presidio
+DATE_TIME,daily,1347,571,576,0.8500,presidio
+DATE_TIME,daily,1347,646,651,0.8500,presidio
+DATE_TIME,Working Days,1347,769,781,0.8500,presidio
+LOCATION,the Cap Price,1347,891,904,0.8500,presidio
+LOCATION,RoC,1351,36,39,0.8500,presidio
+DATE_TIME,2013,1351,78,82,0.8500,presidio
+LOCATION,the Book Building Process,1351,187,212,0.8500,presidio
+ORGANIZATION,ICICI Bank Limited,1353,173,191,0.9700,context
+DATE_TIME,2013,1355,97,101,0.8500,presidio
+DATE_TIME,"December 10, 2025",1363,34,51,0.8500,presidio
+DATE_TIME,2013,1363,112,116,0.8500,presidio
+DATE_TIME,"December 16, 2025",1363,363,380,0.8500,presidio
+LOCATION,RoC,1363,553,556,0.8500,presidio
+ORGANIZATION,HDFC Bank Limited,1367,153,170,0.9700,context
+DATE_TIME,"October 4, 2012",1369,237,252,0.8500,presidio
+LOCATION,Designated RTA Locations,1371,97,121,0.8500,presidio
+DATE_TIME,May 22,1373,20,26,0.8500,presidio
+DATE_TIME,2025,1373,28,32,0.8500,presidio
+ORGANIZATION,MUFG Intime India Private Limited,1375,0,33,0.9700,context
+ORGANIZATION,Formerly Link Intime India Private Limited,1375,35,77,0.9700,context
+URL,www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=34,1385,161,235,0.8500,presidio
+URL,"www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=35,",1385,239,314,0.8500,presidio
+URL,www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=40,1385,502,576,0.5000,presidio
+ORGANIZATION,MUFG Intime India Private Limited,1387,81,114,0.9700,context
+ORGANIZATION,Formerly Link Intime India Private Limited,1387,116,158,0.9700,context
+DATE_TIME,"December 6, 2025",1389,20,36,0.8500,presidio
+ORGANIZATION,HDFC Bank Limited,1393,335,352,0.9700,context
+ORGANIZATION,ICICI Bank Limited,1393,357,375,0.9700,context
+ORGANIZATION,"Collectively, BSE Limited",1395,0,25,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,1395,30,70,0.8500,spacy
+DATE_TIME,"December 9, 2025",1399,16,32,0.8500,presidio
+ORGANIZATION,Nuvama Wealth Management Limited,1401,200,232,0.9700,context
+ORGANIZATION,ICICI Securities Limited,1401,237,261,0.9700,context
+LOCATION,RoC,1411,184,187,0.8500,presidio
+DATE_TIME,"July 26, 2019",1417,58,71,0.8500,presidio
+DATE_TIME,"May 7, 2024",1417,158,169,0.8500,presidio
+DATE_TIME,"August 3, 2022",1417,489,503,0.8500,presidio
+DATE_TIME,20220803-40,1417,556,567,0.8500,presidio
+DATE_TIME,August 3,1417,574,582,0.8500,presidio
+DATE_TIME,2022,1417,584,588,0.8500,presidio
+DATE_TIME,June 11,1417,662,669,0.8500,presidio
+DATE_TIME,2025,1417,671,675,0.8500,presidio
+DATE_TIME,Working Day,1428,0,11,0.8500,presidio
+DATE_TIME,All days,1429,0,8,0.8500,presidio
+LOCATION,Mumbai,1429,38,44,0.8500,presidio
+LOCATION,India,1429,46,51,0.8500,presidio
+DATE_TIME,all days,1429,194,202,0.8500,presidio
+DATE_TIME,Saturdays,1429,218,227,0.8500,presidio
+DATE_TIME,Sundays,1429,229,236,0.8500,presidio
+LOCATION,Maharashtra,1429,286,297,0.8500,presidio
+LOCATION,India,1429,299,304,0.8500,presidio
+DATE_TIME,Sundays,1429,514,521,0.8500,presidio
+LOCATION,India,1429,543,548,0.8500,presidio
+ORGANIZATION,BSE Limited,1437,0,11,0.9700,context
+DATE_TIME,Calendar Year,1438,0,13,0.8500,presidio
+DATE_TIME,twelve-month,1439,58,70,0.8500,presidio
+DATE_TIME,December 31,1439,85,96,0.8500,presidio
+DATE_TIME,Annual,1451,9,15,0.8500,presidio
+ORGANIZATION,Central Depository Services,1453,0,27,0.9700,context
+DATE_TIME,1956,1456,15,19,0.8500,presidio
+DATE_TIME,1956,1457,15,19,0.8500,presidio
+DATE_TIME,2013,1459,15,19,0.8500,presidio
+DATE_TIME,1996,1465,18,22,0.8500,presidio
+PERSON,DP/ Depository Participant,1472,0,26,0.8500,presidio
+DATE_TIME,1948,1479,15,19,0.8500,presidio
+DATE_TIME,1999,1483,33,37,0.8500,presidio
+DATE_TIME,2019,1485,58,62,0.8500,presidio
+DATE_TIME,"August 16, 2024",1487,28,43,0.8500,presidio
+DATE_TIME,the financial year 2024-25,1487,118,144,0.8500,presidio
+LOCATION,India,1487,192,197,0.8500,presidio
+DATE_TIME,"August 16, 2024",1487,201,216,0.8500,presidio
+DATE_TIME,"February 1, 2025",1489,29,45,0.8500,presidio
+PERSON,the Lok Sabha,1489,61,74,0.8500,presidio
+DATE_TIME,2025-2026,1489,167,176,0.8500,presidio
+DATE_TIME,twelve months ending on March 31,1491,10,42,0.8500,presidio
+DATE_TIME,2018,1495,116,120,0.8500,presidio
+DATE_TIME,2000,1497,143,147,0.8500,presidio
+NRP,Hindu,1503,0,5,0.8500,presidio
+DATE_TIME,1961,1507,16,20,0.8500,presidio
+DATE_TIME,2013,1513,70,74,0.8500,presidio
+DATE_TIME,2015,1513,136,140,0.8500,presidio
+DATE_TIME,2015,1515,165,169,0.8500,presidio
+NRP,Indian,1516,0,6,0.8500,presidio
+LOCATION,India,1517,44,49,0.8500,presidio
+LOCATION,India,1517,102,107,0.8500,presidio
+DATE_TIME,2013,1517,193,197,0.8500,presidio
+DATE_TIME,2014,1517,250,254,0.8500,presidio
+NRP,Indian,1523,0,6,0.8500,presidio
+LOCATION,MT,1532,0,2,0.8500,presidio
+LOCATION,NACH,1536,0,4,0.8500,presidio
+LOCATION,India,1541,26,31,0.8500,presidio
+ORGANIZATION,National Payments Corporation,1543,0,29,0.9700,context
+DATE_TIME,2016,1545,116,120,0.8500,presidio
+LOCATION,India,1547,26,31,0.8500,presidio
+LOCATION,India,1547,52,57,0.8500,presidio
+DATE_TIME,2016,1547,130,134,0.8500,presidio
+DATE_TIME,1955,1547,242,246,0.8500,presidio
+DATE_TIME,2016,1549,116,120,0.8500,presidio
+ORGANIZATION,National Securities Depository Limited,1551,0,38,0.9700,context
+ORGANIZATION,National Stock Exchange of India Limited,1553,0,40,0.8500,spacy
+DATE_TIME,"October 3, 2003",1555,284,299,0.8500,presidio
+DATE_TIME,1956,1577,39,43,0.8500,presidio
+DATE_TIME,1957,1579,41,45,0.8500,presidio
+DATE_TIME,1992,1583,44,48,0.8500,presidio
+DATE_TIME,2012,1585,83,87,0.8500,presidio
+DATE_TIME,1994,1587,74,78,0.8500,presidio
+DATE_TIME,2019,1589,82,86,0.8500,presidio
+DATE_TIME,2000,1591,88,92,0.8500,presidio
+DATE_TIME,"November 11, 2024",1593,107,124,0.8500,presidio
+DATE_TIME,2018,1595,99,103,0.8500,presidio
+DATE_TIME,2015,1597,102,106,0.8500,presidio
+DATE_TIME,1996,1599,67,71,0.8500,presidio
+DATE_TIME,"June 23, 2025",1601,80,93,0.8500,presidio
+DATE_TIME,2021,1603,101,105,0.8500,presidio
+DATE_TIME,2011,1605,102,106,0.8500,presidio
+DATE_TIME,1996,1607,75,79,0.8500,presidio
+LOCATION,India,1609,25,30,0.8500,presidio
+LOCATION,U.S.,1610,0,4,0.8500,presidio
+DATE_TIME,1933,1611,32,36,0.8500,presidio
+LOCATION,US,1612,0,2,0.8500,presidio
+LOCATION,the United States of America,1613,44,72,0.8500,presidio
+LOCATION,US,1614,27,29,0.8500,presidio
+LOCATION,The United States of America,1615,0,28,0.8500,presidio
+LOCATION,USD,1616,0,3,0.8500,presidio
+PERSON,Continuous Transposed Conductors,1655,0,32,0.8500,presidio
+PERSON,Deen Dayal,1659,0,10,0.8500,presidio
+DATE_TIME,Gigawatt-Hour,1697,0,13,0.8500,presidio
+LOCATION,Kilovolt,1723,0,8,0.8500,presidio
+PERSON,Urja Suraksha,1757,21,34,0.8500,presidio
+ORGANIZATION,Precision Wires India Limited,1761,0,29,0.9700,context
+ORGANIZATION,Solar Energy Corporation,1783,0,24,0.9700,context
+LOCATION,UK,1786,0,2,0.8500,presidio
+LOCATION,United Kingdom,1787,0,14,0.8500,presidio
+DATE_TIME,WEO,1792,0,3,0.8500,presidio
+DATE_TIME,the year,1801,11,19,0.8500,presidio
+DATE_TIME,days,1821,73,77,0.8500,presidio
+DATE_TIME,days,1821,98,102,0.8500,presidio
+DATE_TIME,days,1821,114,118,0.8500,presidio
+DATE_TIME,365 or 91 days,1821,215,229,0.8500,presidio
+DATE_TIME,days,1821,249,253,0.8500,presidio
+DATE_TIME,365 or 91 days,1821,338,352,0.8500,presidio
+DATE_TIME,days,1821,368,372,0.8500,presidio
+DATE_TIME,91 days,1821,441,448,0.8500,presidio
+PERSON,PAT CAGR (FY23 - FY25,1822,0,21,0.8500,presidio
+LOCATION,PAT,1823,50,53,0.8500,presidio
+PERSON,PAT Margin,1825,0,10,0.8500,presidio
+DATE_TIME,"June 30, 2025",1850,0,13,0.8500,presidio
+DATE_TIME,March 31,1851,0,8,0.8500,presidio
+DATE_TIME,2025,1851,10,14,0.8500,presidio
+DATE_TIME,"March 31, 2024",1852,0,14,0.8500,presidio
+DATE_TIME,March 31,1853,0,8,0.8500,presidio
+DATE_TIME,2023,1853,10,14,0.8500,presidio
+LOCATION,Supa Facility,1880,133,146,0.8500,presidio
+LOCATION,Chakan,1880,203,209,0.8500,presidio
+LOCATION,Pune,1880,211,215,0.8500,presidio
+LOCATION,Maharashtra,1880,219,230,0.8500,presidio
+PERSON,Supa Facility,1882,153,166,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,1911,0,19,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,1917,0,19,0.8500,presidio
+PERSON,Rohit Kushal Hegde,1923,0,18,0.8500,presidio
+PERSON,Rakhi Girija,1929,0,12,0.8500,presidio
+PERSON,Maithili Rajesh Hegde,1981,0,21,0.8500,presidio
+PERSON,Katyayani Balasubramanian,1987,0,25,0.8500,presidio
+PERSON,Rajesh	Kushal Hegde,2065,0,19,0.8500,presidio
+PERSON,Rakhi Girija,2079,0,12,0.8500,presidio
+PERSON,Rajesh Hegde,2140,9,21,0.8500,presidio
+PERSON,Katyayani Balasubramanian,2147,0,25,0.8500,presidio
+ORGANIZATION,Malabar India Fund Limited,2168,0,26,0.9700,context
+PERSON,Rupal K. Sancheti,2175,0,17,0.8500,presidio
+PERSON,Salil Ajay Bhargava,2182,0,19,0.8500,presidio
+PERSON,Jabeen Ajay Menon,2189,0,17,0.8500,presidio
+PERSON,Ajay Menon,2196,0,10,0.8500,presidio
+DATE_TIME,three-month,2225,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",2225,43,56,0.8500,presidio
+DATE_TIME,three-month,2230,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",2230,43,56,0.8500,presidio
+DATE_TIME,Fiscal 2025,2231,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2232,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2233,0,11,0.8500,presidio
+DATE_TIME,"10,494.60",2258,0,9,0.8500,presidio
+DATE_TIME,the year,2259,20,28,0.8500,presidio
+DATE_TIME,three-month,2276,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",2276,43,56,0.8500,presidio
+DATE_TIME,three-month,2281,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",2281,43,56,0.8500,presidio
+DATE_TIME,Fiscal 2025,2282,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2283,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2284,0,11,0.8500,presidio
+DATE_TIME,three-month,2410,198,209,0.8500,presidio
+DATE_TIME,"June 30, 2025",2410,223,236,0.8500,presidio
+LOCATION,Fiscals 2025,2410,242,254,0.8500,presidio
+DATE_TIME,2024,2410,256,260,0.8500,presidio
+DATE_TIME,2023,2410,265,269,0.8500,presidio
+DATE_TIME,three-month,2412,203,214,0.8500,presidio
+DATE_TIME,"June 30, 2025",2412,228,241,0.8500,presidio
+LOCATION,Fiscals 2025,2412,247,259,0.8500,presidio
+DATE_TIME,2024,2412,261,265,0.8500,presidio
+DATE_TIME,2023,2412,271,275,0.8500,presidio
+DATE_TIME,three-month,2416,125,136,0.8500,presidio
+DATE_TIME,"June 30, 2025",2416,150,163,0.8500,presidio
+LOCATION,Fiscals 2025,2416,168,180,0.8500,presidio
+DATE_TIME,2024,2416,182,186,0.8500,presidio
+DATE_TIME,2023,2416,191,195,0.8500,presidio
+DATE_TIME,three-month,2418,77,88,0.8500,presidio
+DATE_TIME,"June 30, 2025",2418,102,115,0.8500,presidio
+DATE_TIME,2024,2418,135,139,0.8500,presidio
+DATE_TIME,2023,2418,144,148,0.8500,presidio
+LOCATION,India,2428,73,78,0.8500,presidio
+DATE_TIME,three-month,2428,157,168,0.8500,presidio
+DATE_TIME,"June 30, 2025",2428,182,195,0.8500,presidio
+LOCATION,Fiscals 2025,2428,201,213,0.8500,presidio
+DATE_TIME,2024,2428,215,219,0.8500,presidio
+DATE_TIME,2023,2428,224,228,0.8500,presidio
+DATE_TIME,"June 30, 2025",2430,13,26,0.8500,presidio
+DATE_TIME,Three-month,2436,0,11,0.8500,presidio
+DATE_TIME,June 30,2436,25,32,0.8500,presidio
+DATE_TIME,2025,2436,34,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,2438,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2440,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2442,0,11,0.8500,presidio
+ORGANIZATION,"KSH
+Distriparks
+Private Limited",2467,0,31,0.9700,context
+LOCATION,₹,2556,65,66,0.8500,presidio
+LOCATION,₹,2562,65,66,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,2563,0,19,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,2566,0,19,0.8500,presidio
+PERSON,Rohit Kushal Hegde,2569,0,18,0.8500,presidio
+PERSON,Rakhi Girija,2572,0,12,0.8500,presidio
+LOCATION,₹,2594,41,42,0.8500,presidio
+PERSON,Cap Price,2595,0,9,0.8500,presidio
+LOCATION,₹,2596,98,99,0.8500,presidio
+DATE_TIME,Last one year,2597,0,13,0.8500,presidio
+DATE_TIME,18 months,2601,14,23,0.8500,presidio
+DATE_TIME,Last three years,2605,0,16,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,2615,0,19,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,2618,0,19,0.8500,presidio
+PERSON,Rohit Kushal Hegde,2621,0,18,0.8500,presidio
+PERSON,Rakhi Girija,2624,0,12,0.8500,presidio
+LOCATION,₹,2649,40,41,0.8500,presidio
+DATE_TIME,"February 21, 2025",2656,0,17,0.8500,presidio
+DATE_TIME,"February 21, 2025",2661,0,17,0.8500,presidio
+DATE_TIME,"February 21, 2025",2666,0,17,0.8500,presidio
+DATE_TIME,"February 21, 2025",2671,0,17,0.8500,presidio
+DATE_TIME,"December 17, 2024",2676,0,17,0.8500,presidio
+DATE_TIME,"February 21, 2025",2681,0,17,0.8500,presidio
+DATE_TIME,"May 7, 2025",2686,0,11,0.8500,presidio
+DATE_TIME,"May 7, 2025",2691,0,11,0.8500,presidio
+DATE_TIME,"May 7, 2025",2696,0,11,0.8500,presidio
+DATE_TIME,"May 8, 2025",2701,0,11,0.8500,presidio
+DATE_TIME,"May 8, 2025",2706,0,11,0.8500,presidio
+DATE_TIME,"May 7, 2025",2711,0,11,0.8500,presidio
+DATE_TIME,"December 17, 2024",2721,0,17,0.8500,presidio
+PERSON,Maithili Rajesh,2725,0,15,0.8500,presidio
+DATE_TIME,"February 21, 2025",2726,0,17,0.8500,presidio
+DATE_TIME,"December 17, 2024",2731,0,17,0.8500,presidio
+PERSON,Katyayani Balasubramanian ^&,2735,0,28,0.8500,presidio
+DATE_TIME,"February 21, 2025",2736,0,17,0.8500,presidio
+DATE_TIME,"May 7, 2025",2747,0,11,0.8500,presidio
+DATE_TIME,"May 7, 2025",2751,0,11,0.8500,presidio
+DATE_TIME,"May 7, 2025",2755,0,11,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,2757,0,19,0.8500,presidio
+DATE_TIME,"May 7, 2025",2759,0,11,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,2761,0,19,0.8500,presidio
+DATE_TIME,"May 8, 2025",2763,0,11,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,2765,0,19,0.8500,presidio
+DATE_TIME,"May 8, 2025",2767,0,11,0.8500,presidio
+DATE_TIME,Three-month,2769,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",2769,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,2770,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2771,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2772,0,11,0.8500,presidio
+DATE_TIME,Three-month,2779,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",2779,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,2780,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2781,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2782,0,11,0.8500,presidio
+DATE_TIME,"10,494.60",2792,0,9,0.8500,presidio
+PERSON,"S. N
+o.",2793,0,7,0.8500,presidio
+DATE_TIME,Three-month,2795,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",2795,25,38,0.8500,presidio
+DATE_TIME,Three-month,2796,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",2796,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,2797,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,2798,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2799,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2800,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2801,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2802,0,11,0.8500,presidio
+PERSON,"S. N
+o.",2803,0,7,0.8500,presidio
+DATE_TIME,Three-month,2924,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",2924,25,38,0.8500,presidio
+DATE_TIME,Three-month,2925,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",2925,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,2926,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,2927,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2928,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,2929,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2930,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,2931,0,11,0.8500,presidio
+DATE_TIME,Three-month,3052,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3052,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3053,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3054,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3055,0,11,0.8500,presidio
+DATE_TIME,"5,094.36",3057,0,8,0.8500,presidio
+DATE_TIME,Three-month,3067,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3067,25,38,0.8500,presidio
+DATE_TIME,Three-month,3068,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3068,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3069,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3070,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3071,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3072,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3073,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3074,0,11,0.8500,presidio
+DATE_TIME,"4,891.18",3085,0,8,0.8500,presidio
+DATE_TIME,"5,094.36",3103,0,8,0.8500,presidio
+DATE_TIME,Three-month,3112,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3112,25,38,0.8500,presidio
+DATE_TIME,Three-month,3113,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3113,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3114,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3115,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3116,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3117,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3118,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3119,0,11,0.8500,presidio
+DATE_TIME,Three-month,3131,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3131,25,38,0.8500,presidio
+DATE_TIME,Three-month,3132,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3132,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3133,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3134,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3135,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3136,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3137,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3138,0,11,0.8500,presidio
+LOCATION,India,3156,23,28,0.8500,presidio
+DATE_TIME,"5,094.36",3166,0,8,0.8500,presidio
+DATE_TIME,Three-month,3175,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3175,25,38,0.8500,presidio
+DATE_TIME,Three-month,3176,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3176,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3177,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3178,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3179,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3180,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3181,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3182,0,11,0.8500,presidio
+LOCATION,Gujarat,3192,0,7,0.8500,presidio
+DATE_TIME,"10,067.32",3215,0,9,0.8500,presidio
+DATE_TIME,Three-month,3220,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3220,25,38,0.8500,presidio
+DATE_TIME,Three-month,3221,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3221,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3222,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3223,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3224,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3225,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3226,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3227,0,11,0.8500,presidio
+DATE_TIME,Three-month,3256,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3256,25,38,0.8500,presidio
+DATE_TIME,Three-month,3257,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3257,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3258,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3259,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3260,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3261,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3262,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3263,0,11,0.8500,presidio
+DATE_TIME,Three-month,3283,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3283,25,38,0.8500,presidio
+DATE_TIME,Three-month,3284,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3284,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3285,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3286,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3287,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3288,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3289,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3290,0,11,0.8500,presidio
+DATE_TIME,Three-month,3328,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3328,25,38,0.8500,presidio
+DATE_TIME,Three-month,3329,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3329,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3330,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3331,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3332,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3333,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3334,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3335,0,11,0.8500,presidio
+LOCATION,India,3354,18,23,0.8500,presidio
+DATE_TIME,"17,783.47",3366,0,9,0.8500,presidio
+DATE_TIME,Three-month,3373,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3373,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3374,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3375,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3376,0,11,0.8500,presidio
+DATE_TIME,1979-1980,3387,0,9,0.8500,presidio
+DATE_TIME,FY 1980,3389,28,35,0.8500,presidio
+DATE_TIME,FY 1981,3389,40,47,0.8500,presidio
+DATE_TIME,September	30,3391,0,12,0.8500,presidio
+DATE_TIME,1981,3391,14,18,0.8500,presidio
+PERSON,Gopal BO,3393,66,74,0.8500,presidio
+DATE_TIME,"August 6, 1982",3395,0,14,0.8500,presidio
+PERSON,Karunakar Bhandary,3397,52,70,0.8500,presidio
+DATE_TIME,"December 9, 1983",3399,0,16,0.8500,presidio
+DATE_TIME,"March 28, 1987",3403,0,14,0.8500,presidio
+PERSON,Karunakar Hegde,3405,50,65,0.8500,presidio
+DATE_TIME,"February 25, 1993",3407,0,17,0.8500,presidio
+DATE_TIME,"September 7, 1998",3411,0,17,0.8500,presidio
+PERSON,Karunakar Hegde,3413,59,74,0.8500,presidio
+DATE_TIME,"September 7, 1998",3415,0,17,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,3417,34,53,0.8500,presidio
+PERSON,Narayana B. Shetty,3417,59,77,0.8500,presidio
+DATE_TIME,December	28,3419,0,11,0.8500,presidio
+DATE_TIME,1998,3419,13,17,0.8500,presidio
+ORGANIZATION,Investment Private Limited,3421,75,101,0.9700,context
+DATE_TIME,December	28,3423,0,11,0.8500,presidio
+DATE_TIME,1998,3423,13,17,0.8500,presidio
+PERSON,Rohit Hegde,3425,34,45,0.8500,presidio
+LOCATION,Karunakar Hegde HUF,3425,51,70,0.8500,presidio
+DATE_TIME,December	28,3427,0,11,0.8500,presidio
+DATE_TIME,1998,3427,13,17,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,3429,34,53,0.8500,presidio
+ORGANIZATION,Investment Private Limited,3429,82,108,0.9700,context
+DATE_TIME,November	29,3431,0,11,0.8500,presidio
+DATE_TIME,2001,3431,13,17,0.8500,presidio
+PERSON,Rajesh Hegde,3433,34,46,0.8500,presidio
+PERSON,Vijay Hegde,3433,50,61,0.8500,presidio
+DATE_TIME,November	29,3435,0,11,0.8500,presidio
+DATE_TIME,2001,3435,13,17,0.8500,presidio
+PERSON,Rohit Hegde,3437,34,45,0.8500,presidio
+PERSON,Vijay Hegde,3437,49,60,0.8500,presidio
+DATE_TIME,"April 20, 2002",3439,0,14,0.8500,presidio
+PERSON,Rajesh Hegde,3441,50,62,0.8500,presidio
+PERSON,Rohit Hegde,3441,67,78,0.8500,presidio
+DATE_TIME,1979-1980,3443,0,9,0.8500,presidio
+DATE_TIME,FY 1980,3445,28,35,0.8500,presidio
+DATE_TIME,FY 1981,3445,40,47,0.8500,presidio
+DATE_TIME,"February 20, 2015",3447,0,17,0.8500,presidio
+DATE_TIME,March 29,3451,0,8,0.8500,presidio
+DATE_TIME,2016,3451,10,14,0.8500,presidio
+PERSON,Rajesh Hegde,3453,51,63,0.8500,presidio
+PERSON,Rohit Hegde,3453,68,79,0.8500,presidio
+PERSON,Pushpa Hegde,3453,83,95,0.8500,presidio
+DATE_TIME,1979,3455,0,4,0.8500,presidio
+DATE_TIME,2016,3455,7,11,0.8500,presidio
+DATE_TIME,Three-month,3459,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3459,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3460,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3461,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3462,0,11,0.8500,presidio
+DATE_TIME,Three-month,3583,0,11,0.8500,presidio
+DATE_TIME,June 30,3583,25,32,0.8500,presidio
+DATE_TIME,2025,3583,34,38,0.8500,presidio
+DATE_TIME,Three-month,3584,0,11,0.8500,presidio
+DATE_TIME,June 30,3584,25,32,0.8500,presidio
+DATE_TIME,2025,3584,34,38,0.8500,presidio
+DATE_TIME,Three-month,3585,0,11,0.8500,presidio
+DATE_TIME,June 30,3585,25,32,0.8500,presidio
+DATE_TIME,2025,3585,34,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3586,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3587,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3588,0,11,0.8500,presidio
+LOCATION,MT,3591,22,24,0.8500,presidio
+LOCATION,MT,3592,21,23,0.8500,presidio
+LOCATION,MT,3594,22,24,0.8500,presidio
+LOCATION,MT,3595,21,23,0.8500,presidio
+DATE_TIME,Fiscal 2024,3665,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3666,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3667,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3668,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3669,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3670,0,11,0.8500,presidio
+LOCATION,MT,3673,22,24,0.8500,presidio
+LOCATION,MT,3674,21,23,0.8500,presidio
+LOCATION,MT,3676,22,24,0.8500,presidio
+LOCATION,MT,3677,21,23,0.8500,presidio
+DATE_TIME,three-month,3746,18,29,0.8500,presidio
+DATE_TIME,2025,3746,52,56,0.8500,presidio
+DATE_TIME,three-month,3747,18,29,0.8500,presidio
+DATE_TIME,2025,3747,52,56,0.8500,presidio
+DATE_TIME,three-month,3748,18,29,0.8500,presidio
+DATE_TIME,2025,3748,52,56,0.8500,presidio
+DATE_TIME,Fiscal 2025,3749,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3750,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3751,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3752,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3753,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3754,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3755,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3756,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3757,0,11,0.8500,presidio
+DATE_TIME,three-month,3824,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",3824,43,56,0.8500,presidio
+DATE_TIME,three-month,3825,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",3825,43,56,0.8500,presidio
+DATE_TIME,three-month,3826,18,29,0.8500,presidio
+DATE_TIME,"June 30, 2025",3826,43,56,0.8500,presidio
+DATE_TIME,Fiscal 2025,3827,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3828,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,3829,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3830,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3831,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3832,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3833,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3834,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3835,0,11,0.8500,presidio
+ORGANIZATION,Goods and Services Tax&,3862,0,23,0.8500,spacy
+DATE_TIME,Three-month,3901,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3901,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,3902,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,3903,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,3904,0,11,0.8500,presidio
+DATE_TIME,Three-month,3916,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3916,25,38,0.8500,presidio
+DATE_TIME,Three-month,3921,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3921,25,38,0.8500,presidio
+DATE_TIME,March 31,3922,0,8,0.8500,presidio
+DATE_TIME,2025,3922,10,14,0.8500,presidio
+DATE_TIME,"March 31, 2024",3923,0,14,0.8500,presidio
+DATE_TIME,March 31,3924,0,8,0.8500,presidio
+DATE_TIME,2023,3924,10,14,0.8500,presidio
+DATE_TIME,"10,494.60",3949,0,9,0.8500,presidio
+DATE_TIME,"December 10, 2024",3954,0,17,0.8500,presidio
+DATE_TIME,"December 10, 2024",3958,0,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3960,13,15,0.3000,presidio
+DATE_TIME,"December 10, 2024",3962,0,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3963,6,8,0.3000,presidio
+DATE_TIME,December 18,3966,0,11,0.8500,presidio
+DATE_TIME,2023,3966,13,17,0.8500,presidio
+DATE_TIME,December 18,3970,0,11,0.8500,presidio
+DATE_TIME,2023,3970,13,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3972,13,15,0.3000,presidio
+DATE_TIME,December 18,3974,0,11,0.8500,presidio
+DATE_TIME,2023,3974,13,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3975,6,8,0.3000,presidio
+DATE_TIME,December 18,3978,0,11,0.8500,presidio
+DATE_TIME,2023,3978,13,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3979,6,8,0.3000,presidio
+DATE_TIME,"November 30, 2022",3982,0,17,0.8500,presidio
+DATE_TIME,"November 30, 2022",3986,0,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3988,16,18,0.3000,presidio
+DATE_TIME,"November 30, 2022",3990,0,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3992,16,18,0.3000,presidio
+DATE_TIME,"November 30, 2022",3994,0,17,0.8500,presidio
+US_DRIVER_LICENSE,A2,3995,6,8,0.3000,presidio
+DATE_TIME,Three-month,3999,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",3999,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,4000,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,4001,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,4002,0,11,0.8500,presidio
+DATE_TIME,Three-month,4009,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",4009,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,4010,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,4011,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,4012,0,11,0.8500,presidio
+DATE_TIME,Three-month,4018,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",4018,25,38,0.8500,presidio
+DATE_TIME,Three-month,4019,0,11,0.8500,presidio
+DATE_TIME,"June 30, 2025",4019,25,38,0.8500,presidio
+DATE_TIME,Fiscal 2025,4020,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2025,4021,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,4022,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2024,4023,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,4024,0,11,0.8500,presidio
+DATE_TIME,Fiscal 2023,4025,0,11,0.8500,presidio
+DATE_TIME,three-month,4046,6,17,0.8500,presidio
+DATE_TIME,"June 30, 2025",4046,31,44,0.8500,presidio
+DATE_TIME,financial year ended March 31,4050,6,35,0.8500,presidio
+DATE_TIME,2025,4050,37,41,0.8500,presidio
+DATE_TIME,"financial year ended March 31, 2024",4054,6,41,0.8500,presidio
+DATE_TIME,financial year ended March 31,4058,6,35,0.8500,presidio
+DATE_TIME,2023,4058,37,41,0.8500,presidio
+DATE_TIME,"June 30, 2025",4063,13,26,0.8500,presidio
+DATE_TIME,"December 6, 2025",4111,0,16,0.8500,presidio
+PERSON,Pushpa Kushal Hegde,4113,0,19,0.8500,presidio
+DATE_TIME,"December 6, 2025",4116,0,16,0.8500,presidio
+PERSON,Rajesh Kushal Hegde,4118,0,19,0.8500,presidio
+DATE_TIME,"December 6, 2025",4121,0,16,0.8500,presidio
+PERSON,Rohit Kushal Hegde,4123,0,18,0.8500,presidio
+DATE_TIME,"December 6, 2025",4126,0,16,0.8500,presidio
+US_BANK_NUMBER,00135070,4133,0,8,0.0500,presidio
+ADDRESS,"3 Prabhat Road, opposite PYC basketball court, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",4134,64,161,0.9700,context
+PERSON,Rajesh Kushal Hegde,4135,0,19,0.8500,presidio
+US_BANK_NUMBER,00114193,4137,0,8,0.0500,presidio
+ADDRESS,"12 Buena Monte, NCL co-operative housing society, Panchvati, Pashan, Pune – 411 008, Maharashtra, India",4138,0,103,0.9700,context
+PERSON,Rohit Kushal Hegde,4139,0,18,0.8500,presidio
+DATE_TIME,00134926,4141,0,8,0.8500,presidio
+PERSON,Pushpakamal Apartment,4142,0,21,0.8500,presidio
+LOCATION,Prabhat Road Lane,4142,50,67,0.8500,presidio
+ADDRESS,"3, Shivaji Nagar, Deccan Gymkhana, Pune – 411 004, Maharashtra, India",4142,72,141,0.9700,context
+PERSON,Rakhi Girija,4143,0,12,0.8500,presidio
+US_BANK_NUMBER,03124510,4145,0,8,0.0500,presidio
+ADDRESS,"3 Prabhat Road, opposite PYC basketball court, Erandawane, Deccan Gymkhana, Pune – 411 004 Maharashtra, India",4146,64,173,0.9700,context
+PERSON,Dinesh Hirachand Munot,4147,0,22,0.8500,presidio
+US_BANK_NUMBER,00049801,4149,0,8,0.0500,presidio
+LOCATION,Sahara Hotel,4150,44,56,0.8500,presidio
+LOCATION,Shivajinagar,4150,58,70,0.8500,presidio
+ADDRESS,"Colony, Pune – 411 016, Maharashtra, India",4150,78,120,0.9700,context
+PERSON,Ajay Shriram Patil,4151,0,18,0.8500,presidio
+US_BANK_NUMBER,01217000,4153,0,8,0.0500,presidio
+ADDRESS,"602, Gopalkrupa Apartment, Bhonde colony, Prabhat Road, Erandawane, Pune – 411 004, Maharashtra, India",4154,0,102,0.9700,context
+PERSON,Ram Kumar Tiwari,4155,0,16,0.8500,presidio
+DATE_TIME,10938958,4157,0,8,0.8500,presidio
+ADDRESS,"259, JK Road, Minal Residency, Huzur, Govindpura, Bhopal – 462 023, Madhya Pradesh, India",4158,2,91,0.9700,context
+PERSON,Indu Jacob,4159,0,10,0.8500,presidio
+DATE_TIME,05293084,4161,0,8,0.8500,presidio
+ADDRESS,"Road, Pune – 411 008, Maharashtra, India",4162,34,74,0.9700,context
+LOCATION,RoC,4168,356,359,0.8500,presidio
+LOCATION,RoC,4168,415,418,0.8500,presidio
+PERSON,Gopal House,4222,56,67,0.8500,presidio
+LOCATION,Opposite Harshal Hall,4222,68,89,0.8500,presidio
+ORGANIZATION,HDFC Limited,4222,97,109,0.9700,context
+EMAIL_ADDRESS,parag.pansare@kirtanepandit.com,4222,164,195,1.0000,regex
+PHONE_NUMBER,+ 91 20 6729 5100,4222,207,224,1.0000,regex
+US_DRIVER_LICENSE,W100057,4222,260,267,0.3000,presidio
+US_DRIVER_LICENSE,014680,4222,288,294,0.0100,presidio
+DATE_TIME,"September 30, 2024",4223,0,18,0.8500,presidio
+ADDRESS,"102, Sai Complex Shaniwar Peth, Pune – 411 030 Maharashtra, India",4225,34,99,0.9700,context
+EMAIL_ADDRESS,hingnetare@gmail.com,4225,108,128,1.0000,regex
+LOCATION,N.A.,4225,183,187,0.8500,presidio
+DATE_TIME,"September 30, 2024",4226,0,18,0.8500,presidio

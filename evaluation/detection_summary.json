@@ -1,0 +1,43 @@
+{
+  "input_file": "input\\Red Herring Prospectus.docx",
+  "text_blocks": 4288,
+  "total_detections": 1994,
+  "categories": {
+    "PERSON": {
+      "occurrences": 278,
+      "unique_values": 77
+    },
+    "EMAIL_ADDRESS": {
+      "occurrences": 70,
+      "unique_values": 26
+    },
+    "PHONE_NUMBER": {
+      "occurrences": 49,
+      "unique_values": 22
+    },
+    "ORGANIZATION": {
+      "occurrences": 182,
+      "unique_values": 69
+    },
+    "ADDRESS": {
+      "occurrences": 45,
+      "unique_values": 35
+    },
+    "SSN": {
+      "occurrences": 0,
+      "unique_values": 0
+    },
+    "CREDIT_CARD": {
+      "occurrences": 0,
+      "unique_values": 0
+    },
+    "DATE_OF_BIRTH": {
+      "occurrences": 0,
+      "unique_values": 0
+    },
+    "IP_ADDRESS": {
+      "occurrences": 0,
+      "unique_values": 0
+    }
+  }
+}

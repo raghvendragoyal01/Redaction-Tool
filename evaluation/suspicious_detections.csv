@@ -1,0 +1,22 @@
+entity_type,original_text,block_index,start,end,confidence,source
+ADDRESS,"11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka - Khed, Pune – 410 501, Maharashtra, India and its Corporate Office at 201, Tower 2, Montreal Business",33,262,418,0.9900,context
+ORGANIZATION,Switchgear Limited,205,150,168,0.9700,context
+ORGANIZATION,India) Limited,205,281,295,0.8500,spacy
+ORGANIZATION,Cindus Corporation,214,55,73,0.9700,context
+ORGANIZATION,Vedanta Limited,214,217,232,0.9700,context
+ORGANIZATION,Cloud Services,442,1685,1699,0.9700,context
+ORGANIZATION,Cloud Services,442,1808,1822,0.9700,context
+ORGANIZATION,BSE Limited,847,95,106,0.9700,context
+ORGANIZATION,BSE Limited,848,95,106,0.9700,context
+ORGANIZATION,BSE Limited,849,95,106,0.9700,context
+ORGANIZATION,BSE Limited,850,95,106,0.9700,context
+ORGANIZATION,BSE Limited,851,95,106,0.9700,context
+ORGANIZATION,BSE Limited,852,95,106,0.9700,context
+ORGANIZATION,BSE Limited,853,95,106,0.9700,context
+ORGANIZATION,BSE Limited,854,95,106,0.9700,context
+ORGANIZATION,BSE Limited,855,95,106,0.9700,context
+ADDRESS,"of our company located at 201, Tower 2, Montreal Business Centre, Off Pallod Farms, Baner, Pune – 411 045, Maharashtra, India",1094,21,146,0.9900,context
+ADDRESS,"of our Company located at 11/3, 11/4 and 11/5, Village Birdewadi, Chakan Taluka-Khed, Pune – 410 501, Maharashtra, India",1150,22,142,0.9900,context
+ADDRESS,"5, Chakan Industrial Area, Phase II, Village Khalumbre, Taluka Khed, Pune – 410 501, Maharashtra, India",1178,47,150,0.9700,context
+ORGANIZATION,BSE Limited,1437,0,11,0.9700,context
+ORGANIZATION,HDFC Limited,4222,97,109,0.9700,context
