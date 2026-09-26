@@ -85,6 +85,9 @@ python -m src.main --input input/RHP.docx --output output/Red_Herring_Prospectus
 python scripts/run_anonymization.py
 ```
 
+> ⏱️ **Note on Processing & Writing Time:**  
+> Large financial filings like `RHP.docx` contain over 4,200 text blocks, 76 complex tables, headers, and footers. The pipeline executes a comprehensive 4-tier NLP ensemble and performs granular **run-level XML style reconstruction** (multi-run stitching, right-to-left slice substitutions, and a global consistency sweep). Consequently, processing and writing the redacted document typically takes **30–60 seconds**. Please allow the command to run until completion.
+
 ### 2. Validate Redaction & Document Structure
 Verifies that 0% source PII leaked into the output and that paragraph/table counts are 100% preserved:
 ```bash
