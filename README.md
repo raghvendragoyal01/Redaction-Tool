@@ -97,10 +97,32 @@ Runs the evaluation against ground-truth benchmarks and regenerates the metric r
 python scripts/evaluate.py
 ```
 
-### 4. Run Unit Tests
+### 4. Launch Interactive Web UI
+```bash
+streamlit run app.py
+```
+
+### 5. Run Unit Tests
 ```bash
 pytest -v
 ```
+
+---
+
+## 🌐 1-Click Cloud Deployment (Fastest Options)
+
+### Option A: Streamlit Community Cloud (Fastest - Recommended)
+1. Go to **[share.streamlit.io](https://share.streamlit.io/)** and sign in with GitHub.
+2. Click **New app**.
+3. Select repository: `raghvendragoyal01/Redaction-Tool`.
+4. Main file path: `app.py`.
+5. Click **Deploy!** — Your web app will be live with full file upload & DOCX download support in ~60 seconds.
+
+### Option B: Vercel Deployment
+This repository includes `vercel.json` and a serverless API at `api/index.py`:
+1. Import repository on **[Vercel](https://vercel.com)**.
+2. Framework Preset: **Other**.
+3. Click **Deploy**.
 
 ---
 
